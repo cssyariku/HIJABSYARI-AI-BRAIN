@@ -69,6 +69,13 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 
 ---
 
+## [1.0.3] — 2026-09-24
+
+### Changed
+- Replaced the typed brand name at the top of the Day 1 carousel and Stories with the supplied transparent Hijab Syari logo while keeping the existing layouts. Added the source logo to the repository for reproducible rendering.
+
+---
+
 ## CHANGE ENTRY TEMPLATE
 
 ## [X.Y.Z] — YYYY-MM-DD

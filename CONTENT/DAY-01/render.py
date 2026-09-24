@@ -5,6 +5,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parent
 ASSETS = ROOT / "assets"
+LOGO_SOURCE = ROOT.parent.parent / "Logo Hijab Syari Transparan.png"
 CREAM = (246, 240, 231)
 PAPER = (252, 249, 244)
 INK = (51, 43, 38)
@@ -36,11 +37,21 @@ def lines(draw, items, x, y, family, size, fill, leading):
     return y
 
 
-def chrome(draw, dark=False):
-    fg = PAPER if dark else INK
+def brand_logo(dark=False, width=310):
+    source = Image.open(LOGO_SOURCE).convert("RGBA")
+    source = source.crop(source.getchannel("A").getbbox())
+    color = (239, 194, 137) if dark else INK
+    logo = Image.new("RGBA", source.size, color + (0,))
+    logo.putalpha(source.getchannel("A"))
+    height = round(logo.height * width / logo.width)
+    return logo.resize((width, height), Image.Resampling.LANCZOS)
+
+
+def chrome(im, draw, dark=False, line_end=1004):
     faint = (214, 195, 179) if dark else LINE
-    label(draw, "HIJAB SYARI INDONESIA", 76, 70, fg, 24)
-    draw.line((76, 120, 1004, 120), fill=faint, width=2)
+    logo = brand_logo(dark)
+    im.paste(logo, (76, 39), logo)
+    draw.line((76, 150, line_end, 150), fill=faint, width=2)
 
 
 def save(im, name):
@@ -58,7 +69,7 @@ def cover():
             op[x, y] = (*PAPER, alpha)
     im = Image.alpha_composite(photo.convert("RGBA"), overlay).convert("RGB")
     d = ImageDraw.Draw(im)
-    chrome(d)
+    chrome(im, d, line_end=610)
     label(d, "SELAMAT DATANG KEMBALI", 76, 330, TAUPE, 25)
     lines(d, ["Halo, kita", "mulai lagi."], 76, 410, SERIF, 99, INK, 103)
     d.line((80, 675, 178, 675), fill=TAUPE, width=5)
@@ -69,7 +80,7 @@ def cover():
 def standard(number, tag, heading, body, foot, dark=False):
     im = Image.new("RGB", (1080, 1350), TAUPE if dark else CREAM)
     d = ImageDraw.Draw(im)
-    chrome(d, dark)
+    chrome(im, d, dark)
     main = PAPER if dark else INK
     secondary = (232, 217, 202) if dark else MUTED
     label(d, tag, 76, 226, secondary, 25)
@@ -86,8 +97,9 @@ def story(number, eyebrow, heading, body, footer, dark=False):
     d = ImageDraw.Draw(im)
     main = PAPER if dark else INK
     secondary = (232, 217, 202) if dark else TAUPE
-    label(d, "HIJAB SYARI INDONESIA", 76, 96, main, 25)
-    d.line((76, 152, 1004, 152), fill=secondary, width=2)
+    logo = brand_logo(dark, 350)
+    im.paste(logo, (76, 64), logo)
+    d.line((76, 190, 1004, 190), fill=secondary, width=2)
     label(d, eyebrow, 76, 370, secondary, 28)
     lines(d, heading, 76, 475, SERIF, 103, main, 114)
     d.line((76, 860, 205, 860), fill=secondary, width=5)
