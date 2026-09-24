@@ -8,6 +8,8 @@
 **Target:** Pengikut lama dan muslimah Indonesia yang mencari tips hijab praktis, ide warna, bahan, dan styling.  
 **Audience need:** Alasan jelas untuk kembali mengikuti akun dan memahami manfaat konten berikutnya.
 
+**File copywriting siap salin:** [COPYWRITING.md](COPYWRITING.md).
+
 ## Pilihan hook
 
 1. **Halo, kita mulai lagi.** — hangat, singkat, dan cocok untuk momentum reaktivasi.
