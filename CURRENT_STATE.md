@@ -1,11 +1,11 @@
 # CURRENT STATE — Hijab Syari Indonesia
 
 **Document type:** Live Project State / Handoff  
-**State version:** 0.01  
-**Updated:** 18 September 2026  
+**State version:** 0.02  
+**Updated:** 24 September 2026  
 **Current phase:** PRE-LAUNCH → REACTIVATE  
 **Current day:** Day 0  
-**Status:** Strategy initialized; production/data baseline not yet started.
+**Status:** Day 1 production complete and ready for publishing; no Instagram publication or data baseline recorded yet.
 
 > This file overrides older strategic assumptions when explicitly stated. Update it after meaningful analytics reviews or strategic decisions.
 
@@ -114,6 +114,14 @@ Cadence is a working hypothesis, not a promise.
 
 None recorded yet.
 
+### Production ready, awaiting publication
+
+| ID | Day | Topic | Format | Pillar | Hook | Status | Files |
+|---|---:|---|---|---|---|---|---|
+| HS-BRAND-001 | 1 | Comeback: arah baru Hijab Syari Indonesia | Carousel, 6 slides | Brand / reactivation | Halo, kita mulai lagi. | READY; not published | `CONTENT/DAY-01/DAY-01.md` and `CONTENT/DAY-01/assets/` |
+
+The Day 1 package includes the final caption, six carousel PNGs, three Stories PNGs, and an analytics plan. Publication date, post URL, and metrics must be added only after actual posting.
+
 When publishing, append:
 
 | ID | Date | Topic | Format | Pillar | Hook | Status |
@@ -203,7 +211,7 @@ Initial audience model comes from strategic assumptions in MASTER.md and must be
 ## 15. NEXT 7 DAYS
 
 Suggested launch sequence:
-1. Comeback/new editorial direction — Carousel
+1. Comeback/new editorial direction — Carousel — **READY; awaiting publication**
 2. 5 versatile hijab colors — Carousel
 3. Outfit hitam + hijab apa? — Reel
 4. Hijab selalu maju? — Carousel

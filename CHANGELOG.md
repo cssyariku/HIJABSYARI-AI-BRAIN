@@ -50,6 +50,18 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 
 ---
 
+## [1.0.1] — 2026-09-24
+
+### Added
+- Completed Day 1 comeback carousel production package (`HS-BRAND-001`) in `CONTENT/DAY-01/`.
+- Added six 1080 × 1350 carousel PNGs, three 1080 × 1920 Stories PNGs, the editable render script, caption, publishing copy, and measurement plan.
+
+### State
+- Day 1 is READY for Instagram publication; it has not been marked published and no metrics have been invented.
+- Updated `CURRENT_STATE.md` and `CONTENT_BACKLOG.md` to reflect production status.
+
+---
+
 ## CHANGE ENTRY TEMPLATE
 
 ## [X.Y.Z] — YYYY-MM-DD
