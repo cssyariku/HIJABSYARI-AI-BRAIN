@@ -84,6 +84,15 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 
 ---
 
+## [1.0.5] — 2026-09-24
+
+### Added
+- Completed Day 2 Color Lab carousel package (`HS-COLOR-001`) in `CONTENT/DAY-02/` with eight carousel PNGs, three Stories PNGs, copywriting, an editable render script, and a measurement plan.
+- Added `CONTENT/README.md` as a direct index to per-day packages and copywriting.
+- Updated `CURRENT_STATE.md` and `CONTENT_BACKLOG.md` to mark Day 2 READY while preserving the not-published status and unknown Instagram metrics.
+
+---
+
 ## CHANGE ENTRY TEMPLATE
 
 ## [X.Y.Z] — YYYY-MM-DD

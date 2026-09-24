@@ -129,6 +129,7 @@ Semua chat bekerja dari SSOT yang sama.
 | `PROMPT_LIBRARY.md` | Prompt produksi AI dan template output | Sedang |
 | `CONTENT_BACKLOG.md` | Bank ide dan series | Tinggi |
 | `CHANGELOG.md` | Audit perubahan strategis | Saat ada perubahan |
+| `CONTENT/` | Paket produksi per day: copywriting, aset siap unggah, dan pratinjau | Setiap konten selesai |
 
 ---
 

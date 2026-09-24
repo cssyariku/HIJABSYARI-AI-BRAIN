@@ -42,6 +42,8 @@
 
 **Day 1 production status (24 September 2026):** `HS-BRAND-001` READY; final package and assets are in `CONTENT/DAY-01/`. Not yet published to Instagram.
 
+**Day 2 production status (24 September 2026):** `HS-COLOR-001` READY; final package and assets are in `CONTENT/DAY-02/`. Not yet published to Instagram.
+
 ---
 
 ## 2. HIJAB FIX BACKLOG

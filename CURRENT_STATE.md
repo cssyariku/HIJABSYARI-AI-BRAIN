@@ -1,11 +1,11 @@
 # CURRENT STATE — Hijab Syari Indonesia
 
 **Document type:** Live Project State / Handoff  
-**State version:** 0.03  
+**State version:** 0.04  
 **Updated:** 24 September 2026  
 **Current phase:** PRE-LAUNCH → REACTIVATE  
 **Current day:** Day 0  
-**Status:** Day 1 production complete and ready for publishing; no Instagram publication or data baseline recorded yet.
+**Status:** Day 1 and Day 2 production complete and ready for publishing; no Instagram publication or data baseline recorded yet.
 
 > This file overrides older strategic assumptions when explicitly stated. Update it after meaningful analytics reviews or strategic decisions.
 
@@ -120,8 +120,9 @@ None recorded yet.
 | ID | Day | Topic | Format | Pillar | Hook | Status | Files |
 |---|---:|---|---|---|---|---|---|
 | HS-BRAND-001 | 1 | Comeback: arah baru Hijab Syari Indonesia | Carousel, 6 slides | Brand / reactivation | Halo, kita mulai lagi. | READY; not published | `CONTENT/DAY-01/DAY-01.md` and `CONTENT/DAY-01/assets/` |
+| HS-COLOR-001 | 2 | 5 warna hijab yang gampang dipadukan | Carousel, 8 slides | Color Lab | 5 warna hijab yang gampang dipadukan. | READY; not published | `CONTENT/DAY-02/DAY-02.md` and `CONTENT/DAY-02/assets/` |
 
-The Day 1 package includes the final caption, six carousel PNGs, three Stories PNGs, and an analytics plan. Publication date, post URL, and metrics must be added only after actual posting.
+Day 1 and Day 2 packages include final copywriting, carousel PNGs, Stories PNGs, and analytics plans. Publication dates, post URLs, and metrics must be added only after actual posting.
 
 When publishing, append:
 
@@ -213,7 +214,7 @@ Initial audience model comes from strategic assumptions in MASTER.md and must be
 
 Suggested launch sequence:
 1. Comeback/new editorial direction — Carousel — **READY; awaiting publication**
-2. 5 versatile hijab colors — Carousel
+2. 5 versatile hijab colors — Carousel — **READY; awaiting publication**
 3. Outfit hitam + hijab apa? — Reel
 4. Hijab selalu maju? — Carousel
 5. Neutral hijab A/B — Stories
