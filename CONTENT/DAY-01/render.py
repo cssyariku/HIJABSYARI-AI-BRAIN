@@ -36,14 +36,11 @@ def lines(draw, items, x, y, family, size, fill, leading):
     return y
 
 
-def chrome(draw, number, dark=False):
+def chrome(draw, dark=False):
     fg = PAPER if dark else INK
     faint = (214, 195, 179) if dark else LINE
     label(draw, "HIJAB SYARI INDONESIA", 76, 70, fg, 24)
     draw.line((76, 120, 1004, 120), fill=faint, width=2)
-    draw.line((76, 1235, 1004, 1235), fill=faint, width=2)
-    label(draw, "EDITORIAL / DAY 01", 76, 1260, fg, 20)
-    label(draw, f"{number:02d} / 06", 913, 1260, fg, 20)
 
 
 def save(im, name):
@@ -61,7 +58,7 @@ def cover():
             op[x, y] = (*PAPER, alpha)
     im = Image.alpha_composite(photo.convert("RGBA"), overlay).convert("RGB")
     d = ImageDraw.Draw(im)
-    chrome(d, 1)
+    chrome(d)
     label(d, "SELAMAT DATANG KEMBALI", 76, 330, TAUPE, 25)
     lines(d, ["Halo, kita", "mulai lagi."], 76, 410, SERIF, 99, INK, 103)
     d.line((80, 675, 178, 675), fill=TAUPE, width=5)
@@ -72,7 +69,7 @@ def cover():
 def standard(number, tag, heading, body, foot, dark=False):
     im = Image.new("RGB", (1080, 1350), TAUPE if dark else CREAM)
     d = ImageDraw.Draw(im)
-    chrome(d, number, dark)
+    chrome(d, dark)
     main = PAPER if dark else INK
     secondary = (232, 217, 202) if dark else MUTED
     label(d, tag, 76, 226, secondary, 25)
@@ -97,7 +94,6 @@ def story(number, eyebrow, heading, body, footer, dark=False):
     lines(d, body, 76, 955, SANS, 43, main, 66)
     d.rounded_rectangle((76, 1450, 1004, 1650), radius=18, outline=secondary, width=3)
     lines(d, footer, 120, 1498, SANS, 34, main, 52)
-    label(d, f"STORY {number} / 3", 76, 1780, main, 21)
     save(im, f"story-{number:02d}.png")
 
 

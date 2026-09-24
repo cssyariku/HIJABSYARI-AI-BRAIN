@@ -35,7 +35,7 @@
 
 - Visual: editorial bersih, hangat, krem, taupe, tipografi jelas pada layar ponsel.
 - Cover memakai visualisasi AI perempuan Muslim dewasa berpenampilan Indonesia. Visual tersebut bukan testimoni atau dokumentasi kejadian nyata.
-- Slide 2–6 berupa desain editorial tipografis agar pesannya mudah dibaca. Tidak ada klaim produk atau hasil pemakaian.
+- Slide 2–6 berupa desain editorial tipografis agar pesannya mudah dibaca. Tidak ada klaim produk atau hasil pemakaian. Bagian bawah seluruh visual dibiarkan bersih tanpa label produksi atau nomor urut.
 - File sumber desain: [render.py](render.py). Foto sumber: [editorial-photo.png](assets/editorial-photo.png).
 - **Prompt foto final (imagegen built-in):** Adult Indonesian Muslim woman in a taupe hijab and cream modest outfit, waist-up, minimal warm cream studio, soft daylight, realistic skin and textile, subject on right, generous negative space on left, clean editorial photography, no text, logo, watermark, or visible hair.
 - **Image-to-video:** Tidak relevan untuk carousel Day 1.

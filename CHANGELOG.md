@@ -62,6 +62,13 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 
 ---
 
+## [1.0.2] — 2026-09-24
+
+### Changed
+- Removed visible production labels and counters from the Day 1 carousel and Stories images; regenerated the deliverables and contact sheet.
+
+---
+
 ## CHANGE ENTRY TEMPLATE
 
 ## [X.Y.Z] — YYYY-MM-DD
