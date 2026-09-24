@@ -109,6 +109,8 @@ Slides: [SLIDE CONTENT]
 
 The cover must communicate the benefit within 2–3 seconds. Each slide should have one dominant message. Use editorial hijab photography/visualization where useful. Avoid clutter, tiny text, generic Canva look, excessive decorative elements, fake logos, random gradients, and obvious AI aesthetics.
 
+Final visual rule: show the brand logo and the main headline directly. Do not print a small category, pillar, series, or production subtitle above the headline (for example “Hijab Fix” or “Color Lab + Hijab 101”) unless the user explicitly requests it. Keep those labels only in the production plan.
+
 ---
 
 ## 11. CAPTION WRITER

@@ -1,7 +1,7 @@
 # CURRENT STATE — Hijab Syari Indonesia
 
 **Document type:** Live Project State / Handoff  
-**State version:** 0.02  
+**State version:** 0.03  
 **Updated:** 24 September 2026  
 **Current phase:** PRE-LAUNCH → REACTIVATE  
 **Current day:** Day 0  
@@ -91,6 +91,7 @@ Direction:
 - cream/white/neutral-friendly compositions;
 - strong hierarchy;
 - minimal cover text;
+- no small category/series/production label above the main headline on final carousel or Stories visuals; keep that metadata in the production files;
 - mobile-first;
 - consistent model/look where comparison requires consistency.
 

@@ -418,6 +418,7 @@ Before publish:
 ### Visual
 - readable on phone?
 - consistent?
+- no small category, pillar, series, or production label above the main headline on final carousel/Stories assets? Keep these labels in planning metadata unless the user explicitly asks to display one.
 - AI anatomy/fabric correct?
 - no fake text/logo?
 - modest and appropriate?

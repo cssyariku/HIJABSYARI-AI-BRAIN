@@ -22,13 +22,6 @@ def font(name, size):
 SERIF = "GeorgiaPro-CondRegular.ttf"
 SERIF_ITALIC = "GeorgiaPro-CondItalic.ttf"
 SANS = "ArialNova.ttf"
-SANS_BOLD = "ArialNova-Bold.ttf"
-
-
-def label(draw, text, x, y, color=TAUPE, size=25):
-    draw.text((x, y), text.upper(), font=font(SANS_BOLD, size), fill=color)
-
-
 def lines(draw, items, x, y, family, size, fill, leading):
     f = font(family, size)
     for item in items:
@@ -70,29 +63,28 @@ def cover():
     im = Image.alpha_composite(photo.convert("RGBA"), overlay).convert("RGB")
     d = ImageDraw.Draw(im)
     chrome(im, d, line_end=610)
-    label(d, "SELAMAT DATANG KEMBALI", 76, 330, TAUPE, 25)
-    lines(d, ["Halo, kita", "mulai lagi."], 76, 410, SERIF, 99, INK, 103)
-    d.line((80, 675, 178, 675), fill=TAUPE, width=5)
-    lines(d, ["Urusan hijab terasa lebih", "mudah, mulai hari ini."], 76, 720, SANS, 33, INK, 48)
+    lines(d, ["Halo, kita", "mulai lagi."], 76, 355, SERIF, 99, INK, 103)
+    d.line((80, 620, 178, 620), fill=TAUPE, width=5)
+    lines(d, ["Urusan hijab terasa lebih", "mudah, mulai hari ini."], 76, 665, SANS, 33, INK, 48)
     save(im, "01-cover.png")
 
 
-def standard(number, tag, heading, body, foot, dark=False):
+def standard(number, heading, body, foot, dark=False):
     im = Image.new("RGB", (1080, 1350), TAUPE if dark else CREAM)
     d = ImageDraw.Draw(im)
     chrome(im, d, dark)
     main = PAPER if dark else INK
     secondary = (232, 217, 202) if dark else MUTED
-    label(d, tag, 76, 226, secondary, 25)
-    lines(d, heading, 76, 319, SERIF, 92, main, 98)
-    d.line((80, 625, 205, 625), fill=secondary, width=5)
-    lines(d, body, 76, 695, SANS, 38, main, 57)
+    heading_bottom = lines(d, heading, 76, 265, SERIF, 92, main, 98)
+    rule_y = heading_bottom + 32
+    d.line((80, rule_y, 205, rule_y), fill=secondary, width=5)
+    lines(d, body, 76, rule_y + 68, SANS, 38, main, 57)
     d.rounded_rectangle((76, 1072, 1004, 1185), radius=16, outline=secondary, width=2)
     lines(d, foot, 110, 1090, SANS, 28, main, 37)
     save(im, f"{number:02d}-slide.png")
 
 
-def story(number, eyebrow, heading, body, footer, dark=False):
+def story(number, heading, body, footer, dark=False):
     im = Image.new("RGB", (1080, 1920), TAUPE if dark else CREAM)
     d = ImageDraw.Draw(im)
     main = PAPER if dark else INK
@@ -100,10 +92,10 @@ def story(number, eyebrow, heading, body, footer, dark=False):
     logo = brand_logo(dark, 350)
     im.paste(logo, (76, 64), logo)
     d.line((76, 190, 1004, 190), fill=secondary, width=2)
-    label(d, eyebrow, 76, 370, secondary, 28)
-    lines(d, heading, 76, 475, SERIF, 103, main, 114)
-    d.line((76, 860, 205, 860), fill=secondary, width=5)
-    lines(d, body, 76, 955, SANS, 43, main, 66)
+    heading_bottom = lines(d, heading, 76, 400, SERIF, 103, main, 114)
+    rule_y = heading_bottom + 35
+    d.line((76, rule_y, 205, rule_y), fill=secondary, width=5)
+    lines(d, body, 76, rule_y + 88, SANS, 43, main, 66)
     d.rounded_rectangle((76, 1450, 1004, 1650), radius=18, outline=secondary, width=3)
     lines(d, footer, 120, 1498, SANS, 34, main, 52)
     save(im, f"story-{number:02d}.png")
@@ -111,27 +103,27 @@ def story(number, eyebrow, heading, body, footer, dark=False):
 
 if __name__ == "__main__":
     cover()
-    standard(2, "KENAPA KEMBALI?", ["Karena hijab", "punya banyak", "cerita kecil."],
+    standard(2, ["Karena hijab", "punya banyak", "cerita kecil."],
              ["Ada pilihan warna, bahan, dan styling", "yang sering bikin kita berhenti", "sejenak sebelum berangkat."],
              ["Di sini, kita bahas dengan cara", "yang praktis dan mudah dicoba."])
-    standard(3, "HIJAB FIX", ["Masalah sehari-", "hari? Kita cari", "solusinya."],
+    standard(3, ["Masalah sehari-", "hari? Kita cari", "solusinya."],
              ["Hijab bergeser, kusut, atau terasa", "kurang nyaman? Kita uraikan sebab", "dan opsi yang bisa dicoba."],
              ["Tips akan fokus pada kebutuhan,", "bukan aturan gaya yang kaku."], dark=True)
-    standard(4, "COLOR LAB + HIJAB 101", ["Pilih warna", "dan bahan", "lebih yakin."],
+    standard(4, ["Pilih warna", "dan bahan", "lebih yakin."],
              ["Lihat perbandingan warna dengan", "outfit, kenali karakter bahan, lalu", "pilih yang cocok untuk aktivitasmu."],
              ["Simpan ide yang ingin kamu", "coba nanti."], dark=False)
-    standard(5, "INSPIRASI + KOMUNITAS", ["Inspirasi yang", "bisa jadi milikmu."],
+    standard(5, ["Inspirasi yang", "bisa jadi milikmu."],
              ["Bukan sekadar foto cantik. Kita", "akan berbagi ide look yang bisa", "diadaptasi dengan isi lemarimu."],
              ["Pilihan dan pertanyaanmu ikut", "membentuk topik berikutnya."], dark=False)
-    standard(6, "MULAI DARI KAMU", ["Masalah hijab", "apa yang ingin", "kita bahas dulu?"],
+    standard(6, ["Masalah hijab", "apa yang ingin", "kita bahas dulu?"],
              ["Tulis satu hal yang sering bikin", "kamu bingung saat memilih atau", "memakai hijab."],
              ["Ceritakan di komentar.", "Kami baca untuk ide konten berikutnya."], dark=True)
-    story(1, "KITA MULAI LAGI", ["Halo lagi,", "Hijab Syari", "Indonesia."],
+    story(1, ["Halo lagi,", "Hijab Syari", "Indonesia."],
           ["Mulai sekarang, kita berbagi", "tips hijab yang praktis,", "inspirasi, dan pilihan", "yang lebih mudah dipahami."],
           ["Lihat carousel terbaru", "di feed kami."], dark=False)
-    story(2, "PILIH TOPIK", ["Kamu ingin", "bahas apa", "lebih dulu?"],
+    story(2, ["Kamu ingin", "bahas apa", "lebih dulu?"],
           ["Warna hijab untuk outfit?", "Atau solusi hijab yang", "sering bergeser?"],
           ["Pilihanmu membantu kami", "menentukan bahasan pertama."], dark=True)
-    story(3, "CERITAKAN MASALAHMU", ["Pertanyaanmu", "bisa jadi topik", "berikutnya."],
+    story(3, ["Pertanyaanmu", "bisa jadi topik", "berikutnya."],
           ["Hal kecil soal hijab", "apa yang paling sering", "bikin kamu bingung?"],
           ["Tulis di kotak pertanyaan", "di bawah, ya."], dark=False)

@@ -9,15 +9,11 @@
 
 ### Slide 1 — Cover
 
-**SELAMAT DATANG KEMBALI**
-
 Halo, kita mulai lagi.
 
 Urusan hijab terasa lebih mudah, mulai hari ini.
 
 ### Slide 2
-
-**KENAPA KEMBALI?**
 
 Karena hijab punya banyak cerita kecil.
 
@@ -27,8 +23,6 @@ Di sini, kita bahas dengan cara yang praktis dan mudah dicoba.
 
 ### Slide 3
 
-**HIJAB FIX**
-
 Masalah sehari-hari? Kita cari solusinya.
 
 Hijab bergeser, kusut, atau terasa kurang nyaman? Kita uraikan sebab dan opsi yang bisa dicoba.
@@ -36,8 +30,6 @@ Hijab bergeser, kusut, atau terasa kurang nyaman? Kita uraikan sebab dan opsi ya
 Tips akan fokus pada kebutuhan, bukan aturan gaya yang kaku.
 
 ### Slide 4
-
-**COLOR LAB + HIJAB 101**
 
 Pilih warna dan bahan lebih yakin.
 
@@ -47,8 +39,6 @@ Simpan ide yang ingin kamu coba nanti.
 
 ### Slide 5
 
-**INSPIRASI + KOMUNITAS**
-
 Inspirasi yang bisa jadi milikmu.
 
 Bukan sekadar foto cantik. Kita akan berbagi ide look yang bisa diadaptasi dengan isi lemarimu.
@@ -56,8 +46,6 @@ Bukan sekadar foto cantik. Kita akan berbagi ide look yang bisa diadaptasi denga
 Pilihan dan pertanyaanmu ikut membentuk topik berikutnya.
 
 ### Slide 6 — CTA
-
-**MULAI DARI KAMU**
 
 Masalah hijab apa yang ingin kita bahas dulu?
 
@@ -79,8 +67,6 @@ Kita mulai dari yang paling dekat dengan keseharianmu. **Hal soal hijab apa yang
 
 ### Story 1
 
-**KITA MULAI LAGI**
-
 Halo lagi, Hijab Syari Indonesia.
 
 Mulai sekarang, kita berbagi tips hijab yang praktis, inspirasi, dan pilihan yang lebih mudah dipahami.
@@ -88,8 +74,6 @@ Mulai sekarang, kita berbagi tips hijab yang praktis, inspirasi, dan pilihan yan
 Lihat carousel terbaru di feed kami.
 
 ### Story 2
-
-**PILIH TOPIK**
 
 Kamu ingin bahas apa lebih dulu?
 
@@ -100,8 +84,6 @@ Pilihanmu membantu kami menentukan bahasan pertama.
 **Stiker Poll saat unggah:** `WARNA` / `HIJAB BERGESER`
 
 ### Story 3
-
-**CERITAKAN MASALAHMU**
 
 Pertanyaanmu bisa jadi topik berikutnya.
 

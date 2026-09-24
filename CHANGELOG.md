@@ -76,6 +76,14 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 
 ---
 
+## [1.0.4] — 2026-09-24
+
+### Changed
+- Per user direction, removed every small category/series/production subtitle above the main headline from Day 1 carousel and Stories visuals, then rebalanced headline spacing.
+- Updated `COPYWRITING.md`, `CURRENT_STATE.md`, `CONTENT_SYSTEM.md`, and `PROMPT_LIBRARY.md` so future content keeps these labels as internal metadata rather than printing them on final images.
+
+---
+
 ## CHANGE ENTRY TEMPLATE
 
 ## [X.Y.Z] — YYYY-MM-DD
