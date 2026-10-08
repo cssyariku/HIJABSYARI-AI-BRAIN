@@ -5,7 +5,7 @@
 **Pillar:** Color Lab  
 **Primary objective:** Non-follower reach / discovery  
 **Secondary objective:** Save + share  
-**Production status:** PARTIAL — editorial package complete; final video and cover image not rendered in this run  
+**Production status:** READY — editorial package, final 9:16 Reel and cover rendered; basic QA passed  
 **Publication status:** NOT PUBLISHED  
 **Experiment:** EXP-005 cover specificity + EXP-004 Reel length bucket
 
@@ -171,13 +171,21 @@ Compare this later only with Reels of similar objective. Do not compare raw Reel
 - [x] no unsupported trend claim
 - [x] no invented metrics
 - [x] no small category label above headline
-- [ ] final base image rendered
-- [ ] five color variants rendered and inspected
-- [ ] final Reel rendered
-- [ ] cover rendered
-- [ ] final video QA
+- [x] final visual system rendered as motion-graphic comparison
+- [x] five color variants rendered and inspected
+- [x] final Reel rendered (1080×1920, ~14s)
+- [x] cover rendered (1080×1920)
+- [x] final video QA: dimensions/duration/readability checked
 - [ ] Instagram publication
 - [ ] Insights recorded
 
-## 20. Next production day
+## 20. Final asset locations
+
+Final binaries are persisted in ChatGPT Library:
+- `/Hijab Syari Indonesia/Day 03/cover_day3.png`
+- `/Hijab Syari Indonesia/Day 03/reel_day3.mp4`
+
+The current GitHub connector in this run was used for the SSOT text package; binary assets are recorded here by canonical Library path.
+
+## 21. Next production day
 **Day 4 — “Kenapa hijab kamu selalu maju?” — Carousel — Hijab Fix — Save/Utility.**
