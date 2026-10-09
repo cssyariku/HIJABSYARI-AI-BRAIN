@@ -44,6 +44,10 @@
 
 **Day 2 production status (24 September 2026):** `HS-COLOR-001` READY; final package and assets are in `CONTENT/DAY-02/`. Not yet published to Instagram.
 
+**Day 3 production status (8 October 2026):** `HS-COLOR-002` READY; final Reel package and canonical asset locations are in `CONTENT/DAY-03/`. Not yet published to Instagram.
+
+**Day 4 production status (9 October 2026):** `HS-FIX-001` READY; final carousel package, eight feed PNGs and three Stories PNGs are in `CONTENT/DAY-04/`. Not yet published to Instagram.
+
 ---
 
 ## 2. HIJAB FIX BACKLOG

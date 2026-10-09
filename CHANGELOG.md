@@ -118,6 +118,20 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 
 ---
 
+## [1.0.8] — 2026-10-09
+
+### Added
+- Completed Day 4 Hijab Fix carousel package (`HS-FIX-001`) for “Kenapa hijab selalu maju?” in `CONTENT/DAY-04/`.
+- Added five hook variants, selected hook, eight-slide diagnostic script, editorial visual direction, AI prompt, caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, experiment tag, and QA notes.
+- Added eight upload-ready 1080 × 1350 carousel PNGs, three 1080 × 1920 Stories PNGs, an editable Pillow renderer, the source editorial image, and a contact-sheet preview.
+
+### State
+- Day 4 is READY after dimension, readability, modest-wardrobe, anatomy/fabric, wording, and safe-margin QA.
+- Day 5 “Neutral hijab A atau B?” is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, Insights, or performance label was inferred.
+
+---
+
 ## CHANGE ENTRY TEMPLATE
 
 ## [X.Y.Z] — YYYY-MM-DD
