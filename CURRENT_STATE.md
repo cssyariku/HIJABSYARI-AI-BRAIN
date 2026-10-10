@@ -1,11 +1,11 @@
 # CURRENT STATE — Hijab Syari Indonesia
 
 **Document type:** Live Project State / Handoff  
-**State version:** 0.07  
-**Updated:** 9 October 2026  
+**State version:** 0.08  
+**Updated:** 10 October 2026  
 **Current phase:** PRE-LAUNCH → REACTIVATE  
-**Current day:** Day 4 production  
-**Status:** Day 1 through Day 4 production are READY; no Instagram publication or data baseline is recorded yet.
+**Current day:** Day 5 production  
+**Status:** Day 1 through Day 5 production are READY; no Instagram publication or data baseline is recorded yet.
 
 > This file overrides older strategic assumptions when explicitly stated. Update it after meaningful analytics reviews or strategic decisions.
 
@@ -123,8 +123,9 @@ None recorded yet.
 | HS-COLOR-001 | 2 | 5 warna hijab yang gampang dipadukan | Carousel, 8 slides | Color Lab | 5 warna hijab yang gampang dipadukan. | READY; not published | `CONTENT/DAY-02/DAY-02.md` and `CONTENT/DAY-02/assets/` |
 | HS-COLOR-002 | 3 | Outfit hitam + hijab warna apa? | Reel, ~14 sec | Color Lab | Satu baju hitam, 5 vibe berbeda. | READY; not published | `CONTENT/DAY-03/DAY-03.md`, `CONTENT/DAY-03/COPYWRITING.md`, `CONTENT/DAY-03/ASSETS.md` |
 | HS-FIX-001 | 4 | Kenapa hijab selalu maju? | Carousel, 8 slides | Hijab Fix | Hijab selalu maju? Cek 4 hal ini dulu. | READY; not published | `CONTENT/DAY-04/DAY-04.md`, `CONTENT/DAY-04/COPYWRITING.md`, `CONTENT/DAY-04/assets/` |
+| HS-COMM-001 | 5 | Neutral hijab A atau B? | Stories, 4 frames | Community / Color Lab | Kalau harus pilih satu: neutral A atau B? | READY; not published | `CONTENT/DAY-05/DAY-05.md`, `CONTENT/DAY-05/COPYWRITING.md`, `CONTENT/DAY-05/assets/` |
 
-Day 1, Day 2, and Day 4 packages include final copywriting, carousel PNGs, Stories PNGs, and analytics plans. Day 3 includes the complete editorial Reel package, caption, Stories derivative, KPI plan, final 9:16 Reel and cover, with asset locations recorded in `CONTENT/DAY-03/ASSETS.md`. Publication dates, post URLs, and metrics must be added only after actual posting.
+Day 1, Day 2, and Day 4 packages include final copywriting, carousel PNGs, Stories PNGs, and analytics plans. Day 3 includes the complete editorial Reel package, caption, Stories derivative, KPI plan, final 9:16 Reel and cover, with asset locations recorded in `CONTENT/DAY-03/ASSETS.md`. Day 5 includes four interactive Stories PNGs, native sticker instructions, and an audience-research measurement plan. Publication dates, post URLs, and metrics must be added only after actual posting.
 
 When publishing, append:
 
@@ -183,6 +184,9 @@ Test cover specificity:
 - A: broad “Warna Hijab untuk Outfit Hitam”
 - B: specific “5 Warna Hijab yang Gampang Dipakai dengan Outfit Hitam”
 
+### EXP-006
+Hypothesis: a binary A/B Poll lowers response friction compared with an open-ended Questions prompt. Treat the two actions as different interaction types and do not infer a winner from one sequence.
+
 Do not change multiple major variables simultaneously when trying to isolate causality.
 
 ---
@@ -219,8 +223,8 @@ Suggested launch sequence:
 2. 5 versatile hijab colors — Carousel — **READY; awaiting publication**
 3. Outfit hitam + hijab apa? — Reel — **READY; awaiting publication**
 4. Hijab selalu maju? — Carousel — **READY; awaiting publication**
-5. Neutral hijab A/B — Stories — **NEXT PRODUCTION PRIORITY**
-6. 3 styling mistakes for round-face visual goal — Reel
+5. Neutral hijab A/B — Stories — **READY; awaiting publication**
+6. 3 styling mistakes for round-face visual goal — Reel — **NEXT PRODUCTION PRIORITY**
 7. Voal vs chiffon — Carousel
 
 Production must prioritize quality and learning over rigid schedule compliance.

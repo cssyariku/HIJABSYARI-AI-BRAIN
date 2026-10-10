@@ -132,6 +132,20 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 
 ---
 
+## [1.0.9] — 2026-10-10
+
+### Added
+- Completed Day 5 Community / Color Lab package (`HS-COMM-001`) for “Neutral hijab A atau B?” in `CONTENT/DAY-05/`.
+- Added five hook variants, selected hook, four-frame Stories script, realistic A/B fabric visual, styling context, native Poll/Questions instructions, optional repost caption, keywords/hashtags, KPI plan, and `EXP-006`.
+- Added four upload-ready 1080 × 1920 Stories PNGs, source editorial image, editable Pillow renderer, and contact-sheet preview.
+
+### State
+- Day 5 is READY after dimension, hierarchy, spelling, safe-margin, textile realism, A/B distinction, and mobile-readability QA.
+- Day 6 “3 styling mistakes for round-face visual goal” is the next production priority and must remain options-based rather than face-shaming.
+- Publication remains NOT PUBLISHED; no Instagram URL, Highlight, Poll results, Questions responses, or Insights were inferred.
+
+---
+
 ## CHANGE ENTRY TEMPLATE
 
 ## [X.Y.Z] — YYYY-MM-DD
