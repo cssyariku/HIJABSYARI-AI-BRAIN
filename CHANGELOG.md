@@ -148,6 +148,21 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 
 ## CHANGE ENTRY TEMPLATE
 
+## [1.0.10] — 2026-10-11
+
+### Added
+- Completed Day 6 Face & Style package (`HS-FACE-001`) for three hijab-framing options for round facial proportions in `CONTENT/DAY-06/`.
+- Added five hook variants, selected hook, a timed five-scene shot list, ImageGen and image-to-video prompts, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, and `EXP-007`.
+- Added a 15-second 1080 × 1920 H.264 Reel, 1080 × 1920 cover, three 1080 × 1920 Stories PNGs, source triptych, exact keyframes, editable renderer, and contact-sheet preview.
+
+### Changed
+- Reframed the backlog's “styling mistakes” angle into three equally valid choices, consistent with the repository rule that Face & Style content must never treat a face as a defect.
+
+### State
+- Day 6 is READY after dimension, duration, decode, spelling, hierarchy, safe-margin, mobile-readability, modest-wardrobe, identity, anatomy, and fabric QA.
+- Day 7 “Voal vs chiffon: kapan pakainya?” is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, Insights, or performance label was inferred.
+
 ## [X.Y.Z] — YYYY-MM-DD
 
 ### Changed

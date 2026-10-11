@@ -50,6 +50,8 @@
 
 **Day 5 production status (10 October 2026):** `HS-COMM-001` READY; final audience-research package and four Stories PNGs are in `CONTENT/DAY-05/`. Not yet published to Instagram.
 
+**Day 6 production status (11 October 2026):** `HS-FACE-001` READY; final 15-second Reel, cover, three Stories PNGs, copywriting, source visual, editable renderer, and QA preview are in `CONTENT/DAY-06/`. The original “mistakes” angle was executed as three equally valid framing options to follow the Face & Style guardrail. Not yet published to Instagram.
+
 ---
 
 ## 2. HIJAB FIX BACKLOG
