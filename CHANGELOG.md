@@ -146,8 +146,6 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 
 ---
 
-## CHANGE ENTRY TEMPLATE
-
 ## [1.0.10] — 2026-10-11
 
 ### Added
@@ -162,6 +160,24 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 - Day 6 is READY after dimension, duration, decode, spelling, hierarchy, safe-margin, mobile-readability, modest-wardrobe, identity, anatomy, and fabric QA.
 - Day 7 “Voal vs chiffon: kapan pakainya?” is the next production priority.
 - Publication remains NOT PUBLISHED; no Instagram URL, Insights, or performance label was inferred.
+
+---
+
+## [1.0.11] — 2026-10-12
+
+### Added
+- Completed Day 7 Hijab 101 package (`HS-101-001`) for “Voal atau chiffon?” in `CONTENT/DAY-07/`.
+- Added five hook variants, selected hook, an eight-slide decision guide, ImageGen prompt, final caption, CTA, keywords/hashtags, three Stories derivatives, research notes, KPI plan, and `EXP-008`.
+- Added eight upload-ready 1080 × 1350 carousel PNGs, three 1080 × 1920 Stories PNGs, a realistic two-material diptych, editable Pillow renderer, asset manifest, and contact-sheet preview.
+
+### State
+- Day 7 is READY after dimension, spelling, hierarchy, safe-margin, mobile-readability, modest-wardrobe, identity, anatomy, fabric, and claim-boundary QA.
+- Day 8 “Outfit sage + 5 pilihan hijab” is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, Insights, or performance label was inferred.
+
+---
+
+## CHANGE ENTRY TEMPLATE
 
 ## [X.Y.Z] — YYYY-MM-DD
 

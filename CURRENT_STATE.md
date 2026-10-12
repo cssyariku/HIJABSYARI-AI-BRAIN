@@ -1,11 +1,11 @@
 # CURRENT STATE — Hijab Syari Indonesia
 
 **Document type:** Live Project State / Handoff  
-**State version:** 0.09
-**Updated:** 11 October 2026
+**State version:** 0.10
+**Updated:** 12 October 2026
 **Current phase:** PRE-LAUNCH → REACTIVATE  
-**Current day:** Day 6 production
-**Status:** Day 1 through Day 6 production are READY; no Instagram publication or data baseline is recorded yet.
+**Current day:** Day 7 production
+**Status:** Day 1 through Day 7 production are READY; no Instagram publication or data baseline is recorded yet.
 
 > This file overrides older strategic assumptions when explicitly stated. Update it after meaningful analytics reviews or strategic decisions.
 
@@ -125,8 +125,9 @@ None recorded yet.
 | HS-FIX-001 | 4 | Kenapa hijab selalu maju? | Carousel, 8 slides | Hijab Fix | Hijab selalu maju? Cek 4 hal ini dulu. | READY; not published | `CONTENT/DAY-04/DAY-04.md`, `CONTENT/DAY-04/COPYWRITING.md`, `CONTENT/DAY-04/assets/` |
 | HS-COMM-001 | 5 | Neutral hijab A atau B? | Stories, 4 frames | Community / Color Lab | Kalau harus pilih satu: neutral A atau B? | READY; not published | `CONTENT/DAY-05/DAY-05.md`, `CONTENT/DAY-05/COPYWRITING.md`, `CONTENT/DAY-05/assets/` |
 | HS-FACE-001 | 6 | Tiga opsi framing hijab untuk wajah bulat | Reel, 15 sec | Face & Style | Wajah bulat bukan masalah. Coba 3 framing ini. | READY; not published | `CONTENT/DAY-06/DAY-06.md`, `CONTENT/DAY-06/COPYWRITING.md`, `CONTENT/DAY-06/assets/` |
+| HS-101-001 | 7 | Voal atau chiffon? | Carousel, 8 slides | Hijab 101 | Voal atau chiffon? Tergantung kebutuhanmu. | READY; not published | `CONTENT/DAY-07/DAY-07.md`, `CONTENT/DAY-07/COPYWRITING.md`, `CONTENT/DAY-07/assets/` |
 
-Day 1, Day 2, and Day 4 packages include final copywriting, carousel PNGs, Stories PNGs, and analytics plans. Day 3 includes the complete editorial Reel package, caption, Stories derivative, KPI plan, final 9:16 Reel and cover, with asset locations recorded in `CONTENT/DAY-03/ASSETS.md`. Day 5 includes four interactive Stories PNGs, native sticker instructions, and an audience-research measurement plan. Day 6 includes a final 15-second Reel, cover, three Stories, an editable deterministic renderer, and options-based Face & Style copy. Publication dates, post URLs, and metrics must be added only after actual posting.
+Day 1, Day 2, and Day 4 packages include final copywriting, carousel PNGs, Stories PNGs, and analytics plans. Day 3 includes the complete editorial Reel package, caption, Stories derivative, KPI plan, final 9:16 Reel and cover, with asset locations recorded in `CONTENT/DAY-03/ASSETS.md`. Day 5 includes four interactive Stories PNGs, native sticker instructions, and an audience-research measurement plan. Day 6 includes a final 15-second Reel, cover, three Stories, an editable deterministic renderer, and options-based Face & Style copy. Day 7 includes an eight-slide material guide, three Stories, research boundaries, source visual, and editable renderer. Publication dates, post URLs, and metrics must be added only after actual posting.
 
 When publishing, append:
 
@@ -191,6 +192,9 @@ Hypothesis: a binary A/B Poll lowers response friction compared with an open-end
 ### EXP-007
 Hypothesis: an affirmative, options-based face-framing hook can preserve discovery utility without corrective or face-shaming language. Compare only against reasonably similar Face & Style Reels.
 
+### EXP-008
+Hypothesis: a decision framework plus pre-purchase checklist produces stronger saves than a material comparison that is only descriptive. Compare against similar Hijab 101 carousels.
+
 Do not change multiple major variables simultaneously when trying to isolate causality.
 
 ---
@@ -229,7 +233,8 @@ Suggested launch sequence:
 4. Hijab selalu maju? — Carousel — **READY; awaiting publication**
 5. Neutral hijab A/B — Stories — **READY; awaiting publication**
 6. 3 framing options for a round-face visual goal — Reel — **READY; awaiting publication**
-7. Voal vs chiffon — Carousel — **NEXT PRODUCTION PRIORITY**
+7. Voal vs chiffon — Carousel — **READY; awaiting publication**
+8. Outfit sage + 5 pilihan hijab — Carousel — **NEXT PRODUCTION PRIORITY**
 
 Production must prioritize quality and learning over rigid schedule compliance.
 
