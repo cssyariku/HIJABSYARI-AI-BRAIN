@@ -177,6 +177,20 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 
 ---
 
+## [1.0.12] — 2026-10-13
+
+### Added
+- Completed Day 8 Color Lab package (`HS-COLOR-003`) for “Outfit sage + 5 pilihan hijab” in `CONTENT/DAY-08/`.
+- Added five hook variants, selected hook, an eight-slide controlled-variable comparison, ImageGen prompt, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, and `EXP-009`.
+- Added eight upload-ready 1080 × 1350 carousel PNGs, three 1080 × 1920 Stories PNGs, a realistic five-look source image, editable Pillow renderer, asset manifest, and contact-sheet preview.
+
+### State
+- Day 8 is READY after dimension, file-integrity, spelling, hierarchy, safe-margin, mobile-readability, modest-wardrobe, identity, anatomy, fabric, and controlled-variable QA.
+- Day 9 “5 elegant neutral hijab looks” Reel is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, Insights, or performance label was inferred.
+
+---
+
 ## CHANGE ENTRY TEMPLATE
 
 ## [X.Y.Z] — YYYY-MM-DD

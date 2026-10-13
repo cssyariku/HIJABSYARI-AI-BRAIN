@@ -54,6 +54,8 @@
 
 **Day 7 production status (12 October 2026):** `HS-101-001` READY; final eight-slide carousel, three Stories PNGs, research notes, copywriting, source diptych, editable renderer, and QA preview are in `CONTENT/DAY-07/`. Material claims are qualified because composition, weave density, thickness, and finishing vary. Not yet published to Instagram.
 
+**Day 8 production status (13 October 2026):** `HS-COLOR-003` READY; final eight-slide carousel, three Stories PNGs, copywriting, five-color controlled-comparison visual, editable renderer, and QA preview are in `CONTENT/DAY-08/`. Color descriptions are observations, not undertone guarantees or product-color claims. Not yet published to Instagram.
+
 ---
 
 ## 2. HIJAB FIX BACKLOG
