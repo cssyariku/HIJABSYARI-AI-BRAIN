@@ -206,6 +206,21 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 
 ---
 
+## [1.0.14] — 2026-10-15
+
+### Added
+- Completed Day 10 Hijab Fix package (`HS-FIX-002`) for “Inner terasa tidak nyaman? Cek 3 hal ini” in `CONTENT/DAY-10/`.
+- Added five hook variants, selected hook, an eight-slide troubleshooting checklist, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, `EXP-011`, and research notes with ICHD-3, DermNet, and NHS references.
+- Added eight upload-ready 1080 × 1350 carousel PNGs, three 1080 × 1920 Stories PNGs, realistic inner-comfort triptych, editable Pillow renderer, asset manifest, and contact-sheet preview.
+
+### State
+- Day 10 is READY after dimension, file-integrity, spelling, hierarchy, safe-margin, mobile-readability, modest-wardrobe, identity, anatomy, fabric, medical-boundary, and safety-language QA.
+- A zero-byte slide-8 render was caught during QA; the save method was corrected and the full set was regenerated before release.
+- Day 11 “Tim pashmina atau segi empat?” Stories is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, Insights, diagnosis, or performance label was inferred.
+
+---
+
 ## CHANGE ENTRY TEMPLATE
 
 ## [X.Y.Z] — YYYY-MM-DD
