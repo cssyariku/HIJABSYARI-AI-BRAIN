@@ -1,11 +1,11 @@
 # CURRENT STATE — Hijab Syari Indonesia
 
 **Document type:** Live Project State / Handoff  
-**State version:** 0.13
-**Updated:** 15 October 2026
+**State version:** 0.14
+**Updated:** 16 October 2026
 **Current phase:** PRE-LAUNCH → REACTIVATE  
-**Current day:** Day 10 production
-**Status:** Day 1 through Day 10 production are READY; no Instagram publication or data baseline is recorded yet.
+**Current day:** Day 11 production
+**Status:** Day 1 through Day 11 production are READY; no Instagram publication or data baseline is recorded yet.
 
 > This file overrides older strategic assumptions when explicitly stated. Update it after meaningful analytics reviews or strategic decisions.
 
@@ -129,8 +129,9 @@ None recorded yet.
 | HS-COLOR-003 | 8 | Outfit sage + 5 pilihan hijab | Carousel, 8 slides | Color Lab | Outfit sage + hijab apa? Coba 5 arah warna ini. | READY; not published | `CONTENT/DAY-08/DAY-08.md`, `CONTENT/DAY-08/COPYWRITING.md`, `CONTENT/DAY-08/assets/` |
 | HS-INSPO-001 | 9 | 5 elegant neutral hijab looks | Reel, 16 sec | Hijab Inspo | Netral nggak harus terlihat sama. | READY; not published | `CONTENT/DAY-09/DAY-09.md`, `CONTENT/DAY-09/COPYWRITING.md`, `CONTENT/DAY-09/assets/` |
 | HS-FIX-002 | 10 | Inner terasa tidak nyaman? Cek 3 hal ini | Carousel, 8 slides | Hijab Fix | Inner terasa tidak nyaman? Cek 3 hal ini dulu. | READY; not published | `CONTENT/DAY-10/DAY-10.md`, `CONTENT/DAY-10/COPYWRITING.md`, `CONTENT/DAY-10/assets/` |
+| HS-COMM-002 | 11 | Tim pashmina atau segi empat? | Stories, 4 frames | Community | Kalau harus pilih satu: pashmina atau segi empat? | READY; not published | `CONTENT/DAY-11/DAY-11.md`, `CONTENT/DAY-11/COPYWRITING.md`, `CONTENT/DAY-11/assets/` |
 
-Day 1, Day 2, and Day 4 packages include final copywriting, carousel PNGs, Stories PNGs, and analytics plans. Day 3 includes the complete editorial Reel package, caption, Stories derivative, KPI plan, final 9:16 Reel and cover, with asset locations recorded in `CONTENT/DAY-03/ASSETS.md`. Day 5 includes four interactive Stories PNGs, native sticker instructions, and an audience-research measurement plan. Day 6 includes a final 15-second Reel, cover, three Stories, an editable deterministic renderer, and options-based Face & Style copy. Day 7 includes an eight-slide material guide, three Stories, research boundaries, source visual, and editable renderer. Day 8 includes an eight-slide controlled-variable Color Lab, three Stories, five-color source visual, and editable renderer. Day 9 includes a final 16-second Reel, cover, three Stories, source quintych, seven keyframes, and deterministic renderer. Day 10 includes an eight-slide comfort-check carousel, three Stories, research notes, source triptych, and editable renderer. Publication dates, post URLs, and metrics must be added only after actual posting.
+Day 1, Day 2, and Day 4 packages include final copywriting, carousel PNGs, Stories PNGs, and analytics plans. Day 3 includes the complete editorial Reel package, caption, Stories derivative, KPI plan, final 9:16 Reel and cover, with asset locations recorded in `CONTENT/DAY-03/ASSETS.md`. Day 5 includes four interactive Stories PNGs, native sticker instructions, and an audience-research measurement plan. Day 6 includes a final 15-second Reel, cover, three Stories, an editable deterministic renderer, and options-based Face & Style copy. Day 7 includes an eight-slide material guide, three Stories, research boundaries, source visual, and editable renderer. Day 8 includes an eight-slide controlled-variable Color Lab, three Stories, five-color source visual, and editable renderer. Day 9 includes a final 16-second Reel, cover, three Stories, source quintych, seven keyframes, and deterministic renderer. Day 10 includes an eight-slide comfort-check carousel, three Stories, research notes, source triptych, and editable renderer. Day 11 includes four interactive Stories, a controlled pashmina-versus-segi-empat source diptych, native sticker instructions, and an audience-research measurement plan. Publication dates, post URLs, and metrics must be added only after actual posting.
 
 When publishing, append:
 
@@ -207,6 +208,9 @@ Hypothesis: a numbered five-look inspiration sequence with a short contrarian ho
 ### EXP-011
 Hypothesis: a three-source troubleshooting checklist produces stronger save/share response than a single-tip Hijab Fix carousel of comparable visual quality.
 
+### EXP-012
+Hypothesis: a direct identity-choice Poll followed by an open Questions prompt produces both low-friction preference data and richer qualitative reasons. Poll and Questions remain different interaction types.
+
 Do not change multiple major variables simultaneously when trying to isolate causality.
 
 ---
@@ -249,7 +253,8 @@ Suggested launch sequence:
 8. Outfit sage + 5 pilihan hijab — Carousel — **READY; awaiting publication**
 9. 5 elegant neutral hijab looks — Reel — **READY; awaiting publication**
 10. Inner terasa tidak nyaman? Cek 3 hal ini — Carousel — **READY; awaiting publication**
-11. Tim pashmina atau segi empat? — Stories — **NEXT PRODUCTION PRIORITY**
+11. Tim pashmina atau segi empat? — Stories — **READY; awaiting publication**
+12. Warna hijab untuk tampilan wajah lebih fresh — Reel — **NEXT PRODUCTION PRIORITY**
 
 Production must prioritize quality and learning over rigid schedule compliance.
 

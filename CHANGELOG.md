@@ -221,6 +221,21 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 
 ---
 
+## [1.0.15] — 2026-10-16
+
+### Added
+- Completed Day 11 Community package (`HS-COMM-002`) for “Tim pashmina atau segi empat?” in `CONTENT/DAY-11/`.
+- Added five hook variants, selected hook, four-frame Stories script, final copywriting, CTA, keywords/hashtags, native Poll and Questions instructions, KPI plan, and `EXP-012`.
+- Added four upload-ready 1080 × 1920 Stories PNGs, a controlled ImageGen comparison source, editable Pillow renderer, asset manifest, and contact-sheet preview.
+
+### State
+- Day 11 is READY after dimension, file-integrity, spelling, hierarchy, safe-area, mobile-readability, modest-wardrobe, identity, anatomy, fabric, controlled-comparison, and audience-facing-copy QA.
+- Poll and Questions stickers must be added natively at upload; no result is inferred before Instagram Insights are supplied.
+- Day 12 “Warna hijab untuk tampilan wajah lebih fresh” Reel is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, responses, Insights, or performance label was inferred.
+
+---
+
 ## CHANGE ENTRY TEMPLATE
 
 ## [X.Y.Z] — YYYY-MM-DD
