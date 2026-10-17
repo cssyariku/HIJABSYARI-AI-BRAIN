@@ -62,6 +62,8 @@
 
 **Day 11 production status (16 October 2026):** `HS-COMM-002` READY; final four-frame Stories package, copywriting, controlled pashmina-versus-segi-empat source diptych, editable renderer, native Poll/Questions instructions, experiment plan, and QA preview are in `CONTENT/DAY-11/`. Results remain unknown until Instagram Insights are supplied. Not yet published to Instagram.
 
+**Day 12 production status (17 October 2026):** `HS-COLOR-004` READY; final 16-second Reel, cover, three Stories PNGs, controlled four-color ImageGen source, exact keyframes, editable deterministic renderer, caption, experiment plan, and QA previews are in `CONTENT/DAY-12/`. Color guidance is framed as a personal visual test rather than a universal skin-tone claim. Not yet published to Instagram.
+
 ---
 
 ## 2. HIJAB FIX BACKLOG

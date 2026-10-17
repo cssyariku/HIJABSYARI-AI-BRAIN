@@ -15,5 +15,6 @@ Paket produksi final disimpan per day. Status `READY` berarti naskah dan aset si
 | 9 | 5 elegant neutral hijab looks | READY | [DAY-09.md](DAY-09/DAY-09.md) | [COPYWRITING.md](DAY-09/COPYWRITING.md) | [contact-sheet.png](DAY-09/assets/contact-sheet.png) |
 | 10 | Inner terasa tidak nyaman? Cek 3 hal ini | READY | [DAY-10.md](DAY-10/DAY-10.md) | [COPYWRITING.md](DAY-10/COPYWRITING.md) | [contact-sheet.png](DAY-10/assets/contact-sheet.png) |
 | 11 | Tim pashmina atau segi empat? | READY | [DAY-11.md](DAY-11/DAY-11.md) | [COPYWRITING.md](DAY-11/COPYWRITING.md) | [contact-sheet.png](DAY-11/assets/contact-sheet.png) |
+| 12 | Warna hijab untuk tampilan wajah lebih fresh | READY | [DAY-12.md](DAY-12/DAY-12.md) | [COPYWRITING.md](DAY-12/COPYWRITING.md) | [contact-sheet.png](DAY-12/assets/contact-sheet.png) |
 
 Kalender rencana Day 1–30 ada di [CONTENT_BACKLOG.md](../CONTENT_BACKLOG.md). Status publikasi dan hasil Insights yang sudah terkonfirmasi dicatat di [CURRENT_STATE.md](../CURRENT_STATE.md).

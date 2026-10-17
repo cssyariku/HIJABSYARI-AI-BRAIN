@@ -236,6 +236,21 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 
 ---
 
+## [1.0.16] — 2026-10-17
+
+### Added
+- Completed Day 12 Color Lab package (`HS-COLOR-004`) for “Warna hijab untuk tampilan wajah lebih fresh” in `CONTENT/DAY-12/`.
+- Added five hook variants, selected hook, a timed seven-scene shot list, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, and `EXP-013`.
+- Added a 16-second 1080 × 1920 H.264 Reel, 1080 × 1920 cover, three 1080 × 1920 Stories PNGs, controlled four-color ImageGen source, seven exact keyframes, deterministic Pillow/FFmpeg renderer, asset manifest, and QA previews.
+
+### State
+- Day 12 is READY after dimension, duration, codec, frame-rate, decode, file-integrity, spelling, hierarchy, safe-area, mobile-readability, modest-wardrobe, identity, anatomy, fabric, controlled-variable, and claim-boundary QA.
+- HyperFrames/Chrome was unavailable; the final video was rendered deterministically with Pillow and FFmpeg, and no HyperFrames output was claimed.
+- Day 13 “Kenapa hijab putih terlihat menerawang?” carousel is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, Insights, or performance label was inferred.
+
+---
+
 ## CHANGE ENTRY TEMPLATE
 
 ## [X.Y.Z] — YYYY-MM-DD
