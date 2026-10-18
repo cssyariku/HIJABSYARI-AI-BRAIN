@@ -251,6 +251,21 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 
 ---
 
+## [1.0.17] — 2026-10-18
+
+### Added
+- Completed Day 13 Hijab Fix package (`HS-FIX-003`) for “Kenapa hijab putih terlihat menerawang?” in `CONTENT/DAY-13/`.
+- Added five hook variants, selected hook, an eight-slide four-factor diagnostic carousel, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, `EXP-014`, and textile-research claim boundaries.
+- Added eight upload-ready 1080 × 1350 carousel PNGs, three 1080 × 1920 Stories PNGs, a modest ImageGen source, editable Pillow renderer, asset manifest, and QA previews.
+
+### State
+- Day 13 is READY after dimension, file-integrity, spelling, hierarchy, mobile-readability, modest-wardrobe, anatomy, fabric, lighting, visual-comparison, and claim-boundary QA.
+- The content treats perceived sheerness as a multi-factor visual property and does not promise opacity for a named material or product.
+- Day 14 “Outfit denim + pilihan hijab” Reel is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, Insights, or performance label was inferred.
+
+---
+
 ## CHANGE ENTRY TEMPLATE
 
 ## [X.Y.Z] — YYYY-MM-DD
