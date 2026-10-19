@@ -266,6 +266,21 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 
 ---
 
+## [1.0.18] — 2026-10-19
+
+### Added
+- Completed Day 14 Color Lab package (`HS-COLOR-005`) for “Outfit denim + pilihan hijab” in `CONTENT/DAY-14/`.
+- Added five hook variants, selected hook, an eight-scene timed shot list, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, `EXP-015`, and deterministic storyboard.
+- Added a 17-second 1080 × 1920 H.264 Reel, 1080 × 1920 cover, three 1080 × 1920 Stories PNGs, controlled five-color ImageGen source, eight exact keyframes, editable Pillow/FFmpeg renderer, asset manifest, and QA previews.
+
+### State
+- Day 14 is READY after dimension, duration, codec, frame-rate, full-decode, file-integrity, spelling, hierarchy, safe-area, mobile-readability, modest-wardrobe, identity, anatomy, fabric, controlled-variable, and claim-boundary QA.
+- The HyperFrames skill informed the deterministic composition contract; no HyperFrames CLI/runtime was installed, so Pillow and FFmpeg produced the verified final render and no HyperFrames CLI output is claimed.
+- Day 15 “Undertone 101 sebelum pilih warna hijab” carousel is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, Insights, trend label, or performance result was inferred.
+
+---
+
 ## CHANGE ENTRY TEMPLATE
 
 ## [X.Y.Z] — YYYY-MM-DD

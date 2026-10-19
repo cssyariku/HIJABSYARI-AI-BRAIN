@@ -66,6 +66,8 @@
 
 **Day 13 production status (18 October 2026):** `HS-FIX-003` READY; final eight-slide carousel, three Stories PNGs, ImageGen source, editable deterministic renderer, caption, textile-research notes, 30-second pre-wear test, experiment plan, and QA previews are in `CONTENT/DAY-13/`. Opacity guidance is framed as a multi-factor visual check rather than a universal material claim. Not yet published to Instagram.
 
+**Day 14 production status (19 October 2026):** `HS-COLOR-005` READY; final 17-second Reel, cover, three Stories PNGs, controlled five-color ImageGen source, eight exact keyframes, editable deterministic renderer, caption, experiment plan, and QA previews are in `CONTENT/DAY-14/`. Color directions are visual observations for a controlled denim comparison, not universal suitability or trend claims. Not yet published to Instagram.
+
 ---
 
 ## 2. HIJAB FIX BACKLOG

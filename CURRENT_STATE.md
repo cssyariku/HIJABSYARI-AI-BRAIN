@@ -1,11 +1,11 @@
 # CURRENT STATE — Hijab Syari Indonesia
 
 **Document type:** Live Project State / Handoff  
-**State version:** 0.16
-**Updated:** 18 October 2026
+**State version:** 0.17
+**Updated:** 19 October 2026
 **Current phase:** PRE-LAUNCH → REACTIVATE  
-**Current day:** Day 13 production
-**Status:** Day 1 through Day 13 production are READY; no Instagram publication or data baseline is recorded yet.
+**Current day:** Day 14 production
+**Status:** Day 1 through Day 14 production are READY; no Instagram publication or data baseline is recorded yet.
 
 > This file overrides older strategic assumptions when explicitly stated. Update it after meaningful analytics reviews or strategic decisions.
 
@@ -132,8 +132,9 @@ None recorded yet.
 | HS-COMM-002 | 11 | Tim pashmina atau segi empat? | Stories, 4 frames | Community | Kalau harus pilih satu: pashmina atau segi empat? | READY; not published | `CONTENT/DAY-11/DAY-11.md`, `CONTENT/DAY-11/COPYWRITING.md`, `CONTENT/DAY-11/assets/` |
 | HS-COLOR-004 | 12 | Warna hijab untuk tampilan wajah lebih fresh | Reel, 16 sec | Color Lab | Wajah terlihat kurang fresh? Coba ganti arah warnanya. | READY; not published | `CONTENT/DAY-12/DAY-12.md`, `CONTENT/DAY-12/COPYWRITING.md`, `CONTENT/DAY-12/assets/` |
 | HS-FIX-003 | 13 | Kenapa hijab putih terlihat menerawang? | Carousel, 8 slides | Hijab Fix | Hijab putih terlihat menerawang? Cek 4 hal ini. | READY; not published | `CONTENT/DAY-13/DAY-13.md`, `CONTENT/DAY-13/COPYWRITING.md`, `CONTENT/DAY-13/assets/` |
+| HS-COLOR-005 | 14 | Outfit denim + pilihan hijab | Reel, 17 sec | Color Lab | Outfit denim + hijab apa? Coba 5 arah warna ini. | READY; not published | `CONTENT/DAY-14/DAY-14.md`, `CONTENT/DAY-14/COPYWRITING.md`, `CONTENT/DAY-14/assets/` |
 
-Day 1, Day 2, and Day 4 packages include final copywriting, carousel PNGs, Stories PNGs, and analytics plans. Day 3 includes the complete editorial Reel package, caption, Stories derivative, KPI plan, final 9:16 Reel and cover, with asset locations recorded in `CONTENT/DAY-03/ASSETS.md`. Day 5 includes four interactive Stories PNGs, native sticker instructions, and an audience-research measurement plan. Day 6 includes a final 15-second Reel, cover, three Stories, an editable deterministic renderer, and options-based Face & Style copy. Day 7 includes an eight-slide material guide, three Stories, research boundaries, source visual, and editable renderer. Day 8 includes an eight-slide controlled-variable Color Lab, three Stories, five-color source visual, and editable renderer. Day 9 includes a final 16-second Reel, cover, three Stories, source quintych, seven keyframes, and deterministic renderer. Day 10 includes an eight-slide comfort-check carousel, three Stories, research notes, source triptych, and editable renderer. Day 11 includes four interactive Stories, a controlled pashmina-versus-segi-empat source diptych, native sticker instructions, and an audience-research measurement plan. Day 12 includes a 16-second controlled four-color Reel, cover, three Stories, ImageGen source, exact keyframes, deterministic renderer, and claim-boundary notes. Day 13 includes an eight-slide diagnostic carousel, three Stories, ImageGen source, editable renderer, textile-research boundaries, and a 30-second pre-wear test. Publication dates, post URLs, and metrics must be added only after actual posting.
+Day 1, Day 2, and Day 4 packages include final copywriting, carousel PNGs, Stories PNGs, and analytics plans. Day 3 includes the complete editorial Reel package, caption, Stories derivative, KPI plan, final 9:16 Reel and cover, with asset locations recorded in `CONTENT/DAY-03/ASSETS.md`. Day 5 includes four interactive Stories PNGs, native sticker instructions, and an audience-research measurement plan. Day 6 includes a final 15-second Reel, cover, three Stories, an editable deterministic renderer, and options-based Face & Style copy. Day 7 includes an eight-slide material guide, three Stories, research boundaries, source visual, and editable renderer. Day 8 includes an eight-slide controlled-variable Color Lab, three Stories, five-color source visual, and editable renderer. Day 9 includes a final 16-second Reel, cover, three Stories, source quintych, seven keyframes, and deterministic renderer. Day 10 includes an eight-slide comfort-check carousel, three Stories, research notes, source triptych, and editable renderer. Day 11 includes four interactive Stories, a controlled pashmina-versus-segi-empat source diptych, native sticker instructions, and an audience-research measurement plan. Day 12 includes a 16-second controlled four-color Reel, cover, three Stories, ImageGen source, exact keyframes, deterministic renderer, and claim-boundary notes. Day 13 includes an eight-slide diagnostic carousel, three Stories, ImageGen source, editable renderer, textile-research boundaries, and a 30-second pre-wear test. Day 14 includes a 17-second controlled five-color denim Reel, cover, three Stories, ImageGen source, eight exact keyframes, deterministic renderer, and claim-boundary notes. Publication dates, post URLs, and metrics must be added only after actual posting.
 
 When publishing, append:
 
@@ -219,6 +220,9 @@ Hypothesis: a controlled four-color sequence plus a practical at-home test earns
 ### EXP-014
 Hypothesis: a four-factor diagnostic checklist plus a 30-second pre-wear test earns more saves and problem-specific comments than generic advice to choose thicker fabric. No result is recorded yet.
 
+### EXP-015
+Hypothesis: a rapid five-color controlled comparison for a familiar denim context can encourage rewatches and saves compared with single-look denim inspiration. No result is recorded yet.
+
 Do not change multiple major variables simultaneously when trying to isolate causality.
 
 ---
@@ -264,7 +268,8 @@ Suggested launch sequence:
 11. Tim pashmina atau segi empat? — Stories — **READY; awaiting publication**
 12. Warna hijab untuk tampilan wajah lebih fresh — Reel — **READY; awaiting publication**
 13. Kenapa hijab putih terlihat menerawang? — Carousel — **READY; awaiting publication**
-14. Outfit denim + pilihan hijab — Reel — **NEXT PRODUCTION PRIORITY**
+14. Outfit denim + pilihan hijab — Reel — **READY; awaiting publication**
+15. Undertone 101 sebelum pilih warna hijab — Carousel — **NEXT PRODUCTION PRIORITY**
 
 Production must prioritize quality and learning over rigid schedule compliance.
 
