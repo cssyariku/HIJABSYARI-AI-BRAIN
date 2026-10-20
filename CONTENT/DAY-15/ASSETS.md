@@ -1,0 +1,1 @@
+Day 15 asset manifest placeholder. Binary assets are local and not yet synced.
