@@ -3,7 +3,8 @@
 **Content ID:** `HS-101-002`  
 **Production day:** Day 15  
 **Production date:** 20 October 2026  
-**Status:** PARTIAL — copy and final local assets are complete and QA-checked; binary assets are not yet synced into this GitHub repository.  
+**Asset completion date:** 22 October 2026  
+**Status:** READY — copy, final raster assets, editable renderer, and QA previews are synced in this repository; not published.  
 **Format:** Carousel 8 slides + 3 Stories  
 **Pillar:** Hijab 101 × Color Lab  
 **Primary objective:** Saves / utility  
@@ -77,10 +78,18 @@ Lihat `COPYWRITING.md` untuk caption final, CTA, keywords, dan Stories.
 - [x] Klaim dibatasi: undertone adalah titik mulai eksplorasi, bukan diagnosis atau aturan universal.
 - [x] Tidak ada label kecil kategori/series/produksi di atas headline cover.
 - [x] Tidak ada publikasi atau metrik Instagram yang diklaim.
-- [ ] PNG final dan sumber foto belum tersinkron ke GitHub; tersedia di paket lokal untuk diunggah.
+- [x] PNG final, sumber foto, renderer, dan pratinjau QA tersinkron ke GitHub.
+
+## Final asset paths
+- Carousel: `assets/carousel-01.png` sampai `assets/carousel-08.png`
+- Stories: `assets/story-01.png` sampai `assets/story-03.png`
+- Source: `assets/undertone-portrait-source.jpg`
+- QA previews: `assets/carousel-contact-sheet.png`, `assets/stories-contact-sheet.png`
+- Editable renderer: `render.py`
 
 ## Publishing order
 1. Unggah `assets/carousel-01.png` sampai `assets/carousel-08.png` sebagai carousel.
 2. Gunakan caption dari `COPYWRITING.md`.
 3. Unggah Story 1 dan tambahkan Poll native; Story 2 sebagai mini guide; Story 3 dengan Questions sticker native.
 4. Catat URL publikasi dan Insights setelah benar-benar tayang.
+

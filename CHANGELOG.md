@@ -281,6 +281,21 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 
 ---
 
+## [1.0.19] — 2026-10-22
+
+### Added
+- Completed Day 15 Hijab 101 × Color Lab package (`HS-101-002`) for “Undertone 101 sebelum pilih warna hijab” in `CONTENT/DAY-15/`.
+- Added five hook variants, selected hook, an eight-slide warm/cool/neutral exploration carousel, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, `EXP-016`, and at-home comparison steps.
+- Added eight upload-ready 1080 × 1350 carousel PNGs, three 1080 × 1920 Stories PNGs, a modest ImageGen editorial source, editable Pillow renderer, asset manifest, and QA previews.
+
+### State
+- Day 15 is READY after dimension, PNG-decode, spelling, hierarchy, safe-margin, mobile-readability, modest-wardrobe, anatomy, hands, fabric, palette-label, and claim-boundary QA.
+- The content treats undertone categories as optional exploratory directions, not a diagnosis or universal color-suitability rule.
+- Day 16 “Opsi styling untuk wajah oval” Reel is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, Insights, trend label, or performance result was inferred.
+
+---
+
 ## CHANGE ENTRY TEMPLATE
 
 ## [X.Y.Z] — YYYY-MM-DD
@@ -320,3 +335,4 @@ When changing MASTER-level strategy:
 3. update `CURRENT_STATE.md`;
 4. check dependent prompts/content system;
 5. bump version.
+

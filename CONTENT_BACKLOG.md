@@ -68,6 +68,8 @@
 
 **Day 14 production status (19 October 2026):** `HS-COLOR-005` READY; final 17-second Reel, cover, three Stories PNGs, controlled five-color ImageGen source, eight exact keyframes, editable deterministic renderer, caption, experiment plan, and QA previews are in `CONTENT/DAY-14/`. Color directions are visual observations for a controlled denim comparison, not universal suitability or trend claims. Not yet published to Instagram.
 
+**Day 15 production status (22 October 2026):** `HS-101-002` READY; final eight-slide carousel, three Stories PNGs, modest ImageGen source, editable deterministic renderer, caption, warm/cool/neutral framework, at-home comparison steps, `EXP-016`, and QA previews are in `CONTENT/DAY-15/`. Undertone guidance is framed as an exploratory starting point, not a diagnosis or universal color rule. Not yet published to Instagram.
+
 ---
 
 ## 2. HIJAB FIX BACKLOG
@@ -274,3 +276,4 @@ Backlog priority should be determined by:
 3. strategic fit;
 4. timeliness;
 5. production feasibility.
+

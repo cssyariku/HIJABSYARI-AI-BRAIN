@@ -17,3 +17,4 @@ Create three vertical Instagram Stories at 1080 × 1920 using the same cream edi
 
 ## Motion prompt
 Not applicable: primary format is a static carousel and Stories. Keep any future animation subtle and do not morph face, fabric, hijab color, or body proportions.
+

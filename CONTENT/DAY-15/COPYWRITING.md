@@ -130,3 +130,4 @@ Tambahkan stiker Questions saat mengunggah.
 
 ## Accessibility alt text
 Carousel edukasi undertone menampilkan palet warm, cool, dan neutral, langkah membandingkan dua warna dalam cahaya alami, serta model perempuan Muslim dewasa dengan hijab cream dan busana denim longgar. Konten menekankan bahwa palet adalah titik mulai, bukan aturan universal.
+
