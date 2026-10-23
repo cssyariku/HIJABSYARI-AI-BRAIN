@@ -296,6 +296,22 @@ Project initialized at Day 0. No post-reactivation analytics baseline has been e
 
 ---
 
+## [1.0.20] — 2026-10-23
+
+### Added
+- Completed Day 16 Face & Style package (`HS-FACE-002`) for “Tiga opsi framing hijab untuk wajah oval” in `CONTENT/DAY-16/`.
+- Added five hook variants, selected hook, a timed five-scene shot list, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, `EXP-017`, and a deterministic storyboard.
+- Added a 15-second 1080 × 1920 H.264 Reel, 1080 × 1920 cover, three 1080 × 1920 Stories PNGs, controlled three-framing ImageGen source, five exact keyframes, editable Pillow/FFmpeg renderer, asset manifest, and QA previews.
+
+### State
+- Day 16 is READY after dimension, duration, codec, frame-rate, 450-frame full-decode, file-integrity, spelling, hierarchy, safe-area, mobile-readability, modest-wardrobe, identity, anatomy, fabric, controlled-variable, and face-shape-language QA.
+- All three framing options are presented as valid styling choices; no face correction, guaranteed effect, trend, or beauty-transformation claim is made.
+- The HyperFrames skill informed the deterministic composition contract; no HyperFrames CLI/runtime was installed, so Pillow and FFmpeg produced the verified final render and no HyperFrames CLI output is claimed.
+- Day 17 “5 kombinasi earth tone” carousel is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, Insights, or performance result was inferred.
+
+---
+
 ## CHANGE ENTRY TEMPLATE
 
 ## [X.Y.Z] — YYYY-MM-DD

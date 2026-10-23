@@ -70,6 +70,8 @@
 
 **Day 15 production status (22 October 2026):** `HS-101-002` READY; final eight-slide carousel, three Stories PNGs, modest ImageGen source, editable deterministic renderer, caption, warm/cool/neutral framework, at-home comparison steps, `EXP-016`, and QA previews are in `CONTENT/DAY-15/`. Undertone guidance is framed as an exploratory starting point, not a diagnosis or universal color rule. Not yet published to Instagram.
 
+**Day 16 production status (23 October 2026):** `HS-FACE-002` READY; final 15-second Reel, cover, three Stories PNGs, controlled three-framing ImageGen source, five exact keyframes, editable deterministic renderer, caption, `EXP-017`, and QA previews are in `CONTENT/DAY-16/`. All framing options are presented as equally valid visual choices rather than corrections for facial shape. Not yet published to Instagram.
+
 ---
 
 ## 2. HIJAB FIX BACKLOG
