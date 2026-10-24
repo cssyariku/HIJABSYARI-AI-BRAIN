@@ -7,6 +7,19 @@ Format inspired by semantic versioning:
 - **Minor:** new pillar, workflow, KPI framework, major prompt/system addition.
 - **Patch:** clarification, wording, small operational refinement.
 
+## [1.0.21] — 2026-10-24
+
+### Added
+- Completed Day 17 Color Lab × Hijab Inspo package (`HS-COLOR-006`) for “5 kombinasi earth tone” in `CONTENT/DAY-17/`.
+- Added five hook variants, selected hook, an eight-slide complete-look carousel, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, `EXP-018`, and a three-question palette chooser.
+- Added eight upload-ready 1080 × 1350 carousel PNGs, three 1080 × 1920 Stories PNGs, a controlled five-look ImageGen source, editable deterministic renderer, asset manifest, and QA previews.
+
+### State
+- Day 17 is READY after dimension, PNG-decode, spelling, hierarchy, safe-margin, mobile-readability, modest-wardrobe, adult-model, identity, anatomy, fabric, palette-differentiation, and claim-boundary QA.
+- Color descriptors are editorial observations and do not claim universal undertone suitability, product accuracy, or current trend status.
+- Day 18 “Kenapa hijab gampang kusut?” carousel is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, Insights, trend label, or performance result was inferred.
+
 ---
 
 ## [1.0.0] — 2026-09-18

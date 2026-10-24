@@ -72,6 +72,8 @@
 
 **Day 16 production status (23 October 2026):** `HS-FACE-002` READY; final 15-second Reel, cover, three Stories PNGs, controlled three-framing ImageGen source, five exact keyframes, editable deterministic renderer, caption, `EXP-017`, and QA previews are in `CONTENT/DAY-16/`. All framing options are presented as equally valid visual choices rather than corrections for facial shape. Not yet published to Instagram.
 
+**Day 17 production status (24 October 2026):** `HS-COLOR-006` READY; final eight-slide carousel, three Stories PNGs, controlled five-look ImageGen source, editable deterministic renderer, caption, three-question palette chooser, `EXP-018`, and QA previews are in `CONTENT/DAY-17/`. Color descriptions are editorial observations, not universal undertone, product-color, or trend claims. Not yet published to Instagram.
+
 ---
 
 ## 2. HIJAB FIX BACKLOG
