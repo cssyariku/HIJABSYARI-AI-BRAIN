@@ -7,6 +7,19 @@ Format inspired by semantic versioning:
 - **Minor:** new pillar, workflow, KPI framework, major prompt/system addition.
 - **Patch:** clarification, wording, small operational refinement.
 
+## [1.0.22] — 2026-10-25
+
+### Added
+- Completed Day 18 Hijab Fix × Hijab 101 package (`HS-FIX-004`) for “Kenapa hijab gampang kusut?” in `CONTENT/DAY-18/`.
+- Added five hook variants, selected hook, an eight-slide four-point diagnosis, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, `EXP-019`, a 60-second care checklist, and textile-care research notes.
+- Added eight upload-ready 1080 × 1350 carousel PNGs, three 1080 × 1920 Stories PNGs, a controlled problem–reset–after ImageGen triptych, editable deterministic renderer, asset manifest, and QA previews.
+
+### State
+- Day 18 is READY after dimension, PNG-decode, spelling, hierarchy, safe-margin, mobile-readability, modest-wardrobe, adult-model, identity, anatomy, hands, realistic-wrinkle, comparison, and claim-boundary QA.
+- Guidance starts with the care label, uses low-heat/small-area testing, and avoids universal claims about fiber, steam, or wrinkle recovery.
+- Day 19 “3 clean hijab looks” Reel is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, Insights, trend label, or performance result was inferred.
+
 ## [1.0.21] — 2026-10-24
 
 ### Added
