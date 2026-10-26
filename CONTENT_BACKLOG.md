@@ -76,6 +76,8 @@
 
 **Day 18 production status (25 October 2026):** `HS-FIX-004` READY; final eight-slide carousel, three Stories PNGs, controlled problem–reset–after ImageGen triptych, research notes, editable deterministic renderer, caption, four-point diagnosis, 60-second checklist, `EXP-019`, and QA previews are in `CONTENT/DAY-18/`. Care guidance is fabric-dependent, begins with the care label, and does not promise one heat or steam method for every hijab. Not yet published to Instagram.
 
+**Day 19 production status (26 October 2026):** `HS-INSPO-002` READY; final 15-second Reel, cover, three Stories PNGs, controlled light–soft–deep ImageGen triptych, five exact scenes, editable deterministic renderer, caption, `EXP-020`, and QA previews are in `CONTENT/DAY-19/`. Look names are editorial descriptors, not current-trend or universal-suitability claims. Not yet published to Instagram.
+
 ---
 
 ## 2. HIJAB FIX BACKLOG

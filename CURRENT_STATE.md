@@ -1,11 +1,11 @@
 # CURRENT STATE — Hijab Syari Indonesia
 
 **Document type:** Live Project State / Handoff  
-**State version:** 0.21
-**Updated:** 25 October 2026
+**State version:** 0.22
+**Updated:** 26 October 2026
 **Current phase:** PRE-LAUNCH → REACTIVATE  
-**Current day:** Day 18 production
-**Status:** Day 1 through Day 18 production are READY; no Instagram publication or data baseline is recorded yet.
+**Current day:** Day 19 production
+**Status:** Day 1 through Day 19 production are READY; no Instagram publication or data baseline is recorded yet.
 
 > This file overrides older strategic assumptions when explicitly stated. Update it after meaningful analytics reviews or strategic decisions.
 
@@ -137,8 +137,9 @@ None recorded yet.
 | HS-FACE-002 | 16 | Tiga opsi framing hijab untuk wajah oval | Reel, 15 sec | Face & Style | Wajah oval? Coba 3 framing dengan nuansa berbeda. | READY; not published | `CONTENT/DAY-16/DAY-16.md`, `CONTENT/DAY-16/COPYWRITING.md`, `CONTENT/DAY-16/assets/` |
 | HS-COLOR-006 | 17 | Lima kombinasi earth tone | Carousel, 8 slides | Color Lab × Hijab Inspo | 5 kombinasi earth tone yang nggak terasa monoton. | READY; not published | `CONTENT/DAY-17/DAY-17.md`, `CONTENT/DAY-17/COPYWRITING.md`, `CONTENT/DAY-17/assets/` |
 | HS-FIX-004 | 18 | Kenapa hijab gampang kusut? | Carousel, 8 slides | Hijab Fix × Hijab 101 | Hijab gampang kusut? Cek 4 titik ini dulu. | READY; not published | `CONTENT/DAY-18/DAY-18.md`, `CONTENT/DAY-18/COPYWRITING.md`, `CONTENT/DAY-18/assets/` |
+| HS-INSPO-002 | 19 | Tiga clean hijab looks | Reel, 15 sec | Hijab Inspo | Clean look nggak harus serba putih. | READY; not published | `CONTENT/DAY-19/DAY-19.md`, `CONTENT/DAY-19/COPYWRITING.md`, `CONTENT/DAY-19/assets/` |
 
-Day 1, Day 2, and Day 4 packages include final copywriting, carousel PNGs, Stories PNGs, and analytics plans. Day 3 includes the complete editorial Reel package, caption, Stories derivative, KPI plan, final 9:16 Reel and cover, with asset locations recorded in `CONTENT/DAY-03/ASSETS.md`. Day 5 includes four interactive Stories PNGs, native sticker instructions, and an audience-research measurement plan. Day 6 includes a final 15-second Reel, cover, three Stories, an editable deterministic renderer, and options-based Face & Style copy. Day 7 includes an eight-slide material guide, three Stories, research boundaries, source visual, and editable renderer. Day 8 includes an eight-slide controlled-variable Color Lab, three Stories, five-color source visual, and editable renderer. Day 9 includes a final 16-second Reel, cover, three Stories, source quintych, seven keyframes, and deterministic renderer. Day 10 includes an eight-slide comfort-check carousel, three Stories, research notes, source triptych, and editable renderer. Day 11 includes four interactive Stories, a controlled pashmina-versus-segi-empat source diptych, native sticker instructions, and an audience-research measurement plan. Day 12 includes a 16-second controlled four-color Reel, cover, three Stories, ImageGen source, exact keyframes, deterministic renderer, and claim-boundary notes. Day 13 includes an eight-slide diagnostic carousel, three Stories, ImageGen source, editable renderer, textile-research boundaries, and a 30-second pre-wear test. Day 14 includes a 17-second controlled five-color denim Reel, cover, three Stories, ImageGen source, eight exact keyframes, deterministic renderer, and claim-boundary notes. Day 15 includes an eight-slide undertone exploration carousel, three Stories, a modest ImageGen source, editable deterministic renderer, palette swatches, at-home comparison steps, and claim-boundary notes. Day 16 includes a final 15-second three-option Face & Style Reel, cover, three Stories, controlled ImageGen triptych, five exact keyframes, editable deterministic renderer, and non-corrective framing guidance. Day 17 includes an eight-slide earth-tone combination carousel, three interactive Stories, controlled five-look ImageGen source, editable deterministic renderer, palette-selection questions, and claim-boundary notes. Day 18 includes an eight-slide wrinkle-diagnosis carousel, three interactive Stories, controlled problem–reset–after ImageGen triptych, research notes, editable deterministic renderer, safety steps, and a 60-second care checklist. Publication dates, post URLs, and metrics must be added only after actual posting.
+Day 1, Day 2, and Day 4 packages include final copywriting, carousel PNGs, Stories PNGs, and analytics plans. Day 3 includes the complete editorial Reel package, caption, Stories derivative, KPI plan, final 9:16 Reel and cover, with asset locations recorded in `CONTENT/DAY-03/ASSETS.md`. Day 5 includes four interactive Stories PNGs, native sticker instructions, and an audience-research measurement plan. Day 6 includes a final 15-second Reel, cover, three Stories, an editable deterministic renderer, and options-based Face & Style copy. Day 7 includes an eight-slide material guide, three Stories, research boundaries, source visual, and editable renderer. Day 8 includes an eight-slide controlled-variable Color Lab, three Stories, five-color source visual, and editable renderer. Day 9 includes a final 16-second Reel, cover, three Stories, source quintych, seven keyframes, and deterministic renderer. Day 10 includes an eight-slide comfort-check carousel, three Stories, research notes, source triptych, and editable renderer. Day 11 includes four interactive Stories, a controlled pashmina-versus-segi-empat source diptych, native sticker instructions, and an audience-research measurement plan. Day 12 includes a 16-second controlled four-color Reel, cover, three Stories, ImageGen source, exact keyframes, deterministic renderer, and claim-boundary notes. Day 13 includes an eight-slide diagnostic carousel, three Stories, ImageGen source, editable renderer, textile-research boundaries, and a 30-second pre-wear test. Day 14 includes a 17-second controlled five-color denim Reel, cover, three Stories, ImageGen source, eight exact keyframes, deterministic renderer, and claim-boundary notes. Day 15 includes an eight-slide undertone exploration carousel, three Stories, a modest ImageGen source, editable deterministic renderer, palette swatches, at-home comparison steps, and claim-boundary notes. Day 16 includes a final 15-second three-option Face & Style Reel, cover, three Stories, controlled ImageGen triptych, five exact keyframes, editable deterministic renderer, and non-corrective framing guidance. Day 17 includes an eight-slide earth-tone combination carousel, three interactive Stories, controlled five-look ImageGen source, editable deterministic renderer, palette-selection questions, and claim-boundary notes. Day 18 includes an eight-slide wrinkle-diagnosis carousel, three interactive Stories, controlled problem–reset–after ImageGen triptych, research notes, editable deterministic renderer, safety steps, and a 60-second care checklist. Day 19 includes a final 15-second three-look Hijab Inspo Reel, cover, three Stories, controlled ImageGen triptych, five exact scenes, an editable deterministic renderer, and light–soft–deep preference prompts. Publication dates, post URLs, and metrics must be added only after actual posting.
 
 When publishing, append:
 
@@ -239,6 +240,9 @@ Hypothesis: five complete outfit–hijab pairings with short visual descriptors 
 ### EXP-019
 Hypothesis: a four-point wrinkle diagnosis plus a 60-second checklist will earn stronger saves and problem-specific comments than a single ironing or steaming tip without diagnosis. No result is recorded yet.
 
+### EXP-020
+Hypothesis: three named full looks with a controlled light–soft–deep progression will produce stronger completion, saves, and preference comments than an unlabeled clean-look montage of similar duration. No result is recorded yet.
+
 Do not change multiple major variables simultaneously when trying to isolate causality.
 
 ---
@@ -289,7 +293,8 @@ Suggested launch sequence:
 16. Opsi styling untuk wajah oval — Reel — **READY; awaiting publication**
 17. 5 kombinasi earth tone — Carousel — **READY; awaiting publication**
 18. Kenapa hijab gampang kusut? — Carousel — **READY; awaiting publication**
-19. 3 clean hijab looks — Reel — **NEXT PRODUCTION PRIORITY**
+19. 3 clean hijab looks — Reel — **READY; awaiting publication**
+20. Kesalahan mencuci hijab yang sering terjadi — Carousel — **NEXT PRODUCTION PRIORITY**
 
 Production must prioritize quality and learning over rigid schedule compliance.
 
