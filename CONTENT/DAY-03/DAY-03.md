@@ -181,11 +181,11 @@ Compare this later only with Reels of similar objective. Do not compare raw Reel
 
 ## 20. Final asset locations
 
-Final binaries are persisted in ChatGPT Library:
-- `/Hijab Syari Indonesia/Day 03/cover_day3.png`
-- `/Hijab Syari Indonesia/Day 03/reel_day3.mp4`
+Final binaries are now included in this GitHub folder:
+- [Cover PNG](assets/cover_day3.png)
+- [Reel MP4](assets/reel_day3.mp4)
 
-The current GitHub connector in this run was used for the SSOT text package; binary assets are recorded here by canonical Library path.
+The original files remain archived in ChatGPT Library at `/Hijab Syari Indonesia/Day 03/`. The visual is an illustrated motion graphic; it predates the preference for more realistic Reels, so review it before publishing.
 
 ## 21. Next production day
 **Day 4 — “Kenapa hijab kamu selalu maju?” — Carousel — Hijab Fix — Save/Utility.**
