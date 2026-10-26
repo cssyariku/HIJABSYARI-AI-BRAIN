@@ -7,6 +7,13 @@ Format inspired by semantic versioning:
 - **Minor:** new pillar, workflow, KPI framework, major prompt/system addition.
 - **Patch:** clarification, wording, small operational refinement.
 
+## [1.0.24] — 2026-10-26
+
+### Changed
+- Rebuilt Day 3 (HS-COLOR-002) to match the clean, realistic adult Muslim editorial visual system. Replaced the illustrated motion-graphic Reel and cover with five consistent AI editorial model photos, an eight-scene 16-second photo-based Reel, a new cover, and three Stories.
+- Added editable render source, source photos, keyframes, contact sheet, full caption, prompt record, asset inventory, and publishing/QA guidance in `CONTENT/DAY-03/`.
+- Clarified that camera motion is applied to still AI imagery; no filmed model motion, testimonial, real product wearing, Instagram publication, or performance result is claimed.
+
 ## [1.0.23] — 2026-10-26
 
 ### Added

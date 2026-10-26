@@ -1,24 +1,27 @@
-# ASSETS — DAY 03
+# ASSETS — DAY 03 · versi foto realistis
 
-**Content ID:** HS-COLOR-002  
-**Status:** READY
+## Final
 
-## Final files
-- Cover di GitHub: [`assets/cover_day3.png`](assets/cover_day3.png)
-- Reel di GitHub: [`assets/reel_day3.mp4`](assets/reel_day3.mp4)
-- Salinan arsip Library: `/Hijab Syari Indonesia/Day 03/cover_day3.png` dan `/Hijab Syari Indonesia/Day 03/reel_day3.mp4`
+| File | Format | Fungsi |
+|---|---|---|
+| [reel_day3.mp4](assets/reel_day3.mp4) | MP4 1080 × 1920, 30 fps, 16 s | Reel utama |
+| [cover_day3.png](assets/cover_day3.png) | PNG 1080 × 1920 | Cover unggahan |
+| [story-01-poll.png](assets/story-01-poll.png) | PNG 1080 × 1920 | Poll setelah sticker native |
+| [story-02-recap.png](assets/story-02-recap.png) | PNG 1080 × 1920 | Recap/share Reel |
+| [story-03-question.png](assets/story-03-question.png) | PNG 1080 × 1920 | Questions setelah sticker native |
+| [contact-sheet.jpg](assets/contact-sheet.jpg) | JPEG | QA delapan scene |
 
-## Technical QA
-- Cover: 1080 × 1920 PNG
-- Reel: 1080 × 1920 MP4
-- Duration: ~14 seconds
-- Structure: intro → Cream → Taupe → Mocha → Dusty Rose → Burgundy → CTA
-- No small category/series label above main headline.
-- No unsupported claims or invented metrics.
-- Final visual uses a clean editorial motion-graphic comparison to keep color changes consistent.
+## Sumber produksi
 
-## Visual status
-This is the original Day 3 motion-graphic illustration, not a photorealistic model video. The files are now present in GitHub; review visual fit against the current preference for realistic Reels before posting.
+Lima foto `photo-cream.jpg`, `photo-taupe.jpg`, `photo-mocha.jpg`, `photo-dusty-rose.jpg`, dan `photo-burgundy.jpg` adalah foto editorial yang dibuat dengan imagegen. Delapan `scene-*.jpg` adalah komposisi bertipografi yang dirender deterministik. [render.py](source/render.py) bisa menghasilkan ulang cover, scene, Stories, dan video dari kelima foto tersebut.
 
-## Publication
-Not posted automatically to Instagram. Record URL/date/Insights only after actual publication.
+Versi motion graphic ilustratif sebelumnya tetap tersedia melalui riwayat commit GitHub; file final di folder ini sekarang menunjuk ke versi foto realistis.
+
+## QA
+
+- Foto sumber: satu model dewasa, outfit hitam longgar, rambut/leher/dada tertutup, pose dan latar konsisten.
+- Warna hijab berubah tanpa klaim kesesuaian universal.
+- Delapan scene diperiksa melalui contact sheet; cover memakai foto nyata secara visual, tanpa clip-art/manekin vektor.
+- MP4 H.264, 1080 × 1920, 30 fps, 16,0 detik; video dibangun dari still AI dengan gerak kamera halus, bukan rekaman manusia bergerak.
+- Tidak ada audio bawaan; teks terbaca tanpa audio.
+- Status Instagram: belum diposting; tidak ada Insights yang dikarang.

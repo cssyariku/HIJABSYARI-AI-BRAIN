@@ -1,60 +1,41 @@
-# COPYWRITING — DAY 03
+# COPYWRITING — DAY 03 · HS-COLOR-002
 
-**Content ID:** HS-COLOR-002  
-**Topic:** Outfit hitam + hijab warna apa?  
-**Format:** Reel
+## Caption final siap salin
+
+Outfit hitamnya sama. Ganti warna hijab, nuansanya bisa terasa berbeda.
+
+Cream memberi kontras yang terang. Taupe lebih kalem, mocha terasa hangat, dusty rose membawa sedikit warna, sedangkan burgundy memberi kontras yang lebih tegas.
+
+Lima look di video memakai model, outfit, dan latar yang sama supaya perbandingannya lebih mudah dilihat. Pilihan akhirnya tetap tergantung shade kain, cahaya, aktivitas, dan seleramu. Coba dekatkan beberapa warna ke wajah dalam cahaya alami sebelum memutuskan.
+
+Kalau disimpan untuk referensi, warna mana yang ingin kamu coba lebih dulu?
+
+Visual model adalah ilustrasi editorial berbasis AI.
+
+#HijabSyariIndonesia #WarnaHijab #OutfitHitam #InspirasiHijab #ModestFashionIndonesia
 
 ## Cover
-**5 Warna Hijab untuk Outfit Hitam**
 
-## On-screen text
-**0–1.5s**  
-Satu baju hitam, 5 vibe berbeda.
+5 WARNA HIJAB UNTUK OUTFIT HITAM
 
-**1.5–3.5s**  
-Cream  
-clean & lembut
+## Teks layar
 
-**3.5–5.5s**  
-Taupe  
-netral & polished
+Lihat tabel detik demi detik di DAY-03.md. Teks sengaja tidak menyebut semua warna “cocok” untuk semua skin tone atau undertone.
 
-**5.5–7.5s**  
-Mocha  
-hangat & grounded
+## Alt text cover
 
-**7.5–9.5s**  
-Dusty rose  
-soft contrast
+Foto editorial AI seorang perempuan Muslim dewasa memakai busana longgar hitam dan hijab burgundy di depan dinding krem. Judul besar berbunyi “5 Warna Hijab untuk Outfit Hitam”.
 
-**9.5–11.5s**  
-Burgundy  
-rich & statement
+## Stories
 
-**11.5–14s**  
-Kamu pilih yang mana?  
-Simpan buat referensi outfit hitam.
+1. **Poll:** “Outfit hitam, hijab warna apa?” Sticker Poll: “Cream” / “Burgundy”. Gunakan `story-01-poll.png`.
+2. **Recap:** “Lima warna, satu outfit.” Bagikan Reel ke Story agar bisa diketuk menuju konten. Gunakan `story-02-recap.png` sebagai latar bila diperlukan.
+3. **Questions:** “Selanjutnya, bahas warna apa?” Sticker Questions: “Tulis warna outfitmu”. Gunakan `story-03-question.png`.
 
-## Caption final
-Outfit hitam memang gampang dipadukan, tapi warna hijabnya bisa mengubah keseluruhan nuansa look.
+Latar PNG menyisakan panel di tengah-bawah untuk sticker native. Jangan memublikasikan panel itu kosong tanpa sticker pada Story 1 atau 3.
 
-Kalau ingin terasa ringan dan clean, cream bisa jadi titik mulai. Taupe memberi kesan netral yang lebih muted, sementara mocha membuat kombinasi terasa lebih hangat.
+## Balasan komunitas
 
-Kalau ingin sedikit warna tanpa terlalu kontras, dusty rose bisa memberi sentuhan lembut. Untuk tampilan yang lebih kuat, burgundy memberi depth tanpa harus meninggalkan palet yang elegan.
+Jika ditanya mana yang paling cocok: “Coba lihat bersama outfit dan cahaya yang biasa kamu pakai. Dari lima ini kamu ingin tampilan yang lebih terang, netral, hangat, atau kontras?”
 
-Tidak ada satu warna yang wajib dipilih—anggap ini sebagai lima arah visual yang bisa kamu sesuaikan dengan warna kulit, undertone, acara, dan preferensi pribadi.
-
-Dari lima pilihan ini, kamu paling mungkin pakai yang mana?
-
-Simpan kalau kamu sering bingung memilih hijab untuk outfit hitam.
-
-#HijabSyariIndonesia #InspirasiHijab #WarnaHijab #OutfitHitam #ModestFashion
-
-## Optional short caption
-Satu outfit hitam, lima nuansa.
-
-Cream untuk look yang ringan, taupe untuk netral yang polished, mocha untuk kesan hangat, dusty rose untuk soft contrast, dan burgundy untuk tampilan yang lebih rich.
-
-Kamu pilih yang mana?
-
-Simpan buat referensi outfit hitam berikutnya.
+Jangan menyebut produk/bahan tertentu telah dicoba oleh model AI.
