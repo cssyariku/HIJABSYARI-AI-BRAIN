@@ -78,6 +78,8 @@
 
 **Day 19 production status (26 October 2026):** `HS-INSPO-002` READY; final 15-second Reel, cover, three Stories PNGs, controlled light–soft–deep ImageGen triptych, five exact scenes, editable deterministic renderer, caption, `EXP-020`, and QA previews are in `CONTENT/DAY-19/`. Look names are editorial descriptors, not current-trend or universal-suitability claims. Not yet published to Instagram.
 
+**Day 20 production status (27 October 2026):** `HS-101-003` READY; final eight-slide carousel, three Stories PNGs, realistic ImageGen laundry triptych, editable deterministic renderer, final caption, care-label-first research notes, five-step checklist, `EXP-021`, and QA previews are in `CONTENT/DAY-20/`. Guidance is material- and label-dependent; no universal hand-wash, temperature, detergent, mesh-bag, or drying method is claimed. Not yet published to Instagram.
+
 ---
 
 ## 2. HIJAB FIX BACKLOG

@@ -7,6 +7,19 @@ Format inspired by semantic versioning:
 - **Minor:** new pillar, workflow, KPI framework, major prompt/system addition.
 - **Patch:** clarification, wording, small operational refinement.
 
+## [1.0.25] — 2026-10-27
+
+### Added
+- Completed Day 20 Hijab 101 × Hijab Mistakes package (`HS-101-003`) for “Kesalahan mencuci hijab yang sering terjadi” in `CONTENT/DAY-20/`.
+- Added five hook variants, selected hook, an eight-slide care-label-first washing checklist, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, `EXP-021`, prompt record, and research boundaries.
+- Added eight upload-ready 1080 × 1350 carousel PNGs, three 1080 × 1920 Stories PNGs, a realistic ImageGen laundry triptych, editable Pillow renderer, asset manifest, SHA-256 inventory, and QA previews.
+
+### State
+- Day 20 is READY after dimension, PNG-decode, spelling, hierarchy, safe-margin, mobile-readability, modest-wardrobe, adult-model, identity, anatomy, hands, fabric, washer-load, laundry-action, and claim-boundary QA.
+- Guidance begins with the garment care label and product directions; it does not prescribe one wash temperature, hand-wash rule, detergent dose, mesh-bag use, or drying method for every hijab.
+- Day 21 “Q&A masalah hijab audience” Stories is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, response, Insights, or performance result was inferred.
+
 ## [1.0.24] — 2026-10-26
 
 ### Changed
