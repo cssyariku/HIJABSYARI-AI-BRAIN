@@ -80,6 +80,8 @@
 
 **Day 20 production status (27 October 2026):** `HS-101-003` READY; final eight-slide carousel, three Stories PNGs, realistic ImageGen laundry triptych, editable deterministic renderer, final caption, care-label-first research notes, five-step checklist, `EXP-021`, and QA previews are in `CONTENT/DAY-20/`. Guidance is material- and label-dependent; no universal hand-wash, temperature, detergent, mesh-bag, or drying method is claimed. Not yet published to Instagram.
 
+**Day 21 production status (28 October 2026):** `HS-COMM-003` READY; final four-frame Stories sequence, two native Poll prompts, one Questions prompt, realistic four-context ImageGen source, editable deterministic renderer, final copy, audience-research coding plan, `EXP-022`, asset manifest, and QA preview are in `CONTENT/DAY-21/`. Results remain unknown until actual Instagram responses and Insights are supplied. Not yet published to Instagram.
+
 ---
 
 ## 2. HIJAB FIX BACKLOG

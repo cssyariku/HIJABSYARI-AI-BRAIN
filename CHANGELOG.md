@@ -7,6 +7,19 @@ Format inspired by semantic versioning:
 - **Minor:** new pillar, workflow, KPI framework, major prompt/system addition.
 - **Patch:** clarification, wording, small operational refinement.
 
+## [1.0.26] — 2026-10-28
+
+### Added
+- Completed Day 21 Community package (`HS-COMM-003`) for “Q&A masalah hijab audience” in `CONTENT/DAY-21/`.
+- Added five hook variants, selected hook, a four-frame Stories research sequence, two native Poll prompts, one Questions prompt, optional recap caption, CTA, keywords/hashtags, KPI plan, `EXP-022`, and structured response-coding plan.
+- Added four upload-ready 1080 × 1920 Stories PNGs, a realistic four-context ImageGen source, editable Pillow renderer, asset manifest, SHA-256 inventory, and QA preview.
+
+### State
+- Day 21 is READY after dimension, PNG-decode, spelling, hierarchy, sticker-safe-area, mobile-readability, modest-wardrobe, adult-model, identity, anatomy, hands, fabric, category-differentiation, and no-result-inference QA.
+- Poll and Questions stickers must be added natively at upload; no response, preference, result, or Instagram metric is recorded.
+- Day 22 “Opsi styling untuk wajah square” Reel is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, response, Insights, or performance result was inferred.
+
 ## [1.0.25] — 2026-10-27
 
 ### Added
