@@ -82,6 +82,8 @@
 
 **Day 21 production status (28 October 2026):** `HS-COMM-003` READY; final four-frame Stories sequence, two native Poll prompts, one Questions prompt, realistic four-context ImageGen source, editable deterministic renderer, final copy, audience-research coding plan, `EXP-022`, asset manifest, and QA preview are in `CONTENT/DAY-21/`. Results remain unknown until actual Instagram responses and Insights are supplied. Not yet published to Instagram.
 
+**Day 22 production status (29 October 2026):** `HS-FACE-003` READY; final 15-second Reel, cover, three Stories PNGs, controlled three-framing ImageGen source, five exact scenes, editable Pillow/FFmpeg renderer, final caption, `EXP-023`, asset manifest, and QA previews are in `CONTENT/DAY-22/`. All options are presented as valid styling directions rather than corrections; no Instagram publication or result is inferred.
+
 ---
 
 ## 2. HIJAB FIX BACKLOG

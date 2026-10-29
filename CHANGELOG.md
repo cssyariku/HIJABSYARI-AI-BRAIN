@@ -7,6 +7,20 @@ Format inspired by semantic versioning:
 - **Minor:** new pillar, workflow, KPI framework, major prompt/system addition.
 - **Patch:** clarification, wording, small operational refinement.
 
+## [1.0.27] — 2026-10-29
+
+### Added
+- Completed Day 22 Face & Style package (`HS-FACE-003`) for “Tiga opsi framing hijab untuk wajah square” in `CONTENT/DAY-22/`.
+- Added five hook variants, selected hook, timed five-scene shot list, visual direction, ImageGen and image-to-video prompts, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, `EXP-023`, and deterministic composition contract.
+- Added a 15-second 1080 × 1920 H.264 Reel, 1080 × 1920 cover, three Stories PNGs, controlled three-framing ImageGen source, five exact scenes, editable Pillow/FFmpeg renderer, asset manifest, SHA-256 inventory, and QA previews.
+
+### State
+- Day 22 is READY after dimension, 450-frame full-decode, PNG-integrity, spelling, hierarchy, safe-area, mobile-readability, modest-wardrobe, adult-model, identity, anatomy, fabric, framing-differentiation, and non-corrective-language QA.
+- The first cover render with an incomplete checksum was caught, regenerated from the deterministic source, and re-verified before release.
+- The HyperFrames skill informed the composition contract; Pillow and FFmpeg produced the final render because a HyperFrames CLI/Chrome runtime was unavailable, and no HyperFrames CLI output is claimed.
+- Day 23 “Outfit cokelat + hijab warna apa?” carousel is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, Insights, preference, or performance result was inferred.
+
 ## [1.0.26] — 2026-10-28
 
 ### Added

@@ -25,6 +25,7 @@ Paket produksi final disimpan per day. Status `READY` berarti naskah dan aset si
 | 19 | Tiga clean hijab looks | READY | [DAY-19.md](DAY-19/DAY-19.md) | [COPYWRITING.md](DAY-19/COPYWRITING.md) | [contact-sheet.png](DAY-19/assets/contact-sheet.png) |
 | 20 | Kesalahan mencuci hijab yang sering terjadi | READY | [DAY-20.md](DAY-20/DAY-20.md) | [COPYWRITING.md](DAY-20/COPYWRITING.md) | [contact-sheet.png](DAY-20/assets/contact-sheet.png) |
 | 21 | Q&A masalah hijab audience | READY | [DAY-21.md](DAY-21/DAY-21.md) | [COPYWRITING.md](DAY-21/COPYWRITING.md) | [contact-sheet.png](DAY-21/assets/contact-sheet.png) |
+| 22 | Tiga opsi framing hijab untuk wajah square | READY | [DAY-22.md](DAY-22/DAY-22.md) | [COPYWRITING.md](DAY-22/COPYWRITING.md) | [Cover](DAY-22/assets/reel-cover.png) · [Reel](DAY-22/assets/reel-final.mp4) · [ASSETS.md](DAY-22/ASSETS.md) |
 
 Kalender rencana Day 1–30 ada di [CONTENT_BACKLOG.md](../CONTENT_BACKLOG.md). Status publikasi dan hasil Insights yang sudah terkonfirmasi dicatat di [CURRENT_STATE.md](../CURRENT_STATE.md).
 
