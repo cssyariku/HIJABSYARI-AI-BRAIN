@@ -7,6 +7,19 @@ Format inspired by semantic versioning:
 - **Minor:** new pillar, workflow, KPI framework, major prompt/system addition.
 - **Patch:** clarification, wording, small operational refinement.
 
+## [1.0.28] — 2026-10-30
+
+### Added
+- Completed Day 23 Color Lab package (`HS-COLOR-007`) for “Outfit cokelat + hijab warna apa?” in `CONTENT/DAY-23/`.
+- Added five hook variants, selected hook, an eight-slide controlled comparison, visual direction, ImageGen prompt, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, `EXP-024`, and three-question chooser.
+- Added eight upload-ready 1080 × 1350 carousel PNGs, three 1080 × 1920 Stories PNGs, controlled five-color ImageGen source, editable Pillow renderer, asset manifest, SHA-256 inventory, and QA previews.
+
+### State
+- Day 23 is READY after dimension, PNG-decode, spelling, hierarchy, safe-margin, mobile-readability, modest-wardrobe, adult-model, identity, anatomy, hands, fabric, controlled-variable, five-color separation, and claim-boundary QA.
+- Stories contain audience-facing prompts only; Poll and Questions stickers must be added natively at upload.
+- Day 24 “Kenapa pashmina gampang bergeser?” Reel is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, response, Insights, trend label, product result, or performance metric was inferred.
+
 ## [1.0.27] — 2026-10-29
 
 ### Added
