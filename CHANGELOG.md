@@ -7,6 +7,19 @@ Format inspired by semantic versioning:
 - **Minor:** new pillar, workflow, KPI framework, major prompt/system addition.
 - **Patch:** clarification, wording, small operational refinement.
 
+## [1.0.29] — 2026-10-31
+
+### Added
+- Completed Day 24 Hijab Fix × Hijab 101 package (`HS-FIX-005`) for “Kenapa pashmina gampang bergeser?” in `CONTENT/DAY-24/`.
+- Added five hook variants, selected hook, a timed six-scene diagnosis, visual direction, ImageGen and motion prompts, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, `EXP-025`, a 30-second movement test, and safety/claim boundaries.
+- Added a 15-second 1080 × 1920 H.264 Reel, 1080 × 1920 cover, three Stories PNGs, controlled three-check ImageGen triptych, six exact scenes, editable Pillow/FFmpeg renderer, asset manifest, SHA-256 inventory, and QA previews.
+
+### State
+- Day 24 is READY after dimension, duration, codec, frame-rate, 450-frame full-decode, PNG-integrity, spelling, hierarchy, safe-area, mobile-readability, modest-wardrobe, adult-model, identity, anatomy, hands, fabric, anchor-placement, diagnostic-action, and claim-boundary QA.
+- The HyperFrames skill informed the deterministic composition contract; Pillow and FFmpeg produced the final render because a HyperFrames CLI/Chrome runtime was unavailable, and no HyperFrames CLI output is claimed.
+- Day 25 “Material guide: pilih bahan sesuai kebutuhan” carousel is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, response, Insights, product result, or performance metric was inferred.
+
 ## [1.0.28] — 2026-10-30
 
 ### Added

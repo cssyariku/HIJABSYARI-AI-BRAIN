@@ -86,6 +86,8 @@
 
 **Day 23 production status (30 October 2026):** `HS-COLOR-007` READY; final eight-slide carousel, three Stories PNGs, controlled five-color brown-outfit ImageGen source, editable deterministic renderer, final caption, three-question chooser, `EXP-024`, asset manifest, SHA-256 inventory, and QA previews are in `CONTENT/DAY-23/`. Color directions are editorial observations, not trend, product-color, undertone, or universal-suitability claims. Not yet published to Instagram.
 
+**Day 24 production status (31 October 2026):** `HS-FIX-005` READY; final 15-second Reel, cover, three Stories PNGs, controlled three-check ImageGen triptych, six exact scenes, editable Pillow/FFmpeg renderer, final caption, 30-second movement test, safety guidance, `EXP-025`, asset manifest, and QA previews are in `CONTENT/DAY-24/`. Guidance is conditional and does not endorse one anchor, material, or universal fix. Not yet published to Instagram.
+
 ---
 
 ## 2. HIJAB FIX BACKLOG
