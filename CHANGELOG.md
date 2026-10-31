@@ -7,6 +7,19 @@ Format inspired by semantic versioning:
 - **Minor:** new pillar, workflow, KPI framework, major prompt/system addition.
 - **Patch:** clarification, wording, small operational refinement.
 
+## [1.0.30] — 2026-10-31
+
+### Added
+- Completed Day 25 Hijab 101 package (`HS-101-004`) for “Pilih bahan hijab sesuai kebutuhan” in `CONTENT/DAY-25/`.
+- Added five hook variants, selected hook, eight-slide character-based material guide, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, `EXP-026`, four-question checkout checklist, and research notes.
+- Added eight 1080 × 1350 carousel PNGs, three 1080 × 1920 Stories PNGs, controlled five-panel ImageGen source, editable Pillow renderer, asset manifest, SHA-256 inventory, and QA previews.
+
+### State
+- Day 25 is READY after dimension, PNG-integrity, spelling, hierarchy, safe-margin, mobile-readability, modest-wardrobe, adult-model, anatomy, fabric, material-separation, and claim-boundary QA.
+- Material names are not treated as guarantees of fiber composition, opacity, slip, comfort, or care; actual product composition and care information remain the reference.
+- Day 26 “Monochrome modest-look inspiration” Reel is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, response, Insight, product result, or performance metric was inferred.
+
 ## [1.0.29] — 2026-10-31
 
 ### Added
