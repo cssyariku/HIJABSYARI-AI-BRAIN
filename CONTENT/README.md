@@ -29,6 +29,7 @@ Paket produksi final disimpan per day. Status `READY` berarti naskah dan aset si
 | 23 | Outfit cokelat + lima pilihan hijab | READY | [DAY-23.md](DAY-23/DAY-23.md) | [COPYWRITING.md](DAY-23/COPYWRITING.md) | [contact-sheet.png](DAY-23/assets/contact-sheet.png) |
 | 24 | Kenapa pashmina gampang bergeser? | READY | [DAY-24.md](DAY-24/DAY-24.md) | [COPYWRITING.md](DAY-24/COPYWRITING.md) | [Cover](DAY-24/assets/reel-cover.png) · [Reel](DAY-24/assets/reel-final.mp4) · [ASSETS.md](DAY-24/ASSETS.md) |
 | 25 | Pilih bahan hijab sesuai kebutuhan | READY | [DAY-25.md](DAY-25/DAY-25.md) | [COPYWRITING.md](DAY-25/COPYWRITING.md) | [contact-sheet.png](DAY-25/assets/contact-sheet.png) · [ASSETS.md](DAY-25/ASSETS.md) |
+| 26 | Monochrome modest-look inspiration | READY | [DAY-26.md](DAY-26/DAY-26.md) | [COPYWRITING.md](DAY-26/COPYWRITING.md) | [Cover](DAY-26/assets/reel-cover.png) · [Reel](DAY-26/assets/reel-final.mp4) · [ASSETS.md](DAY-26/ASSETS.md) |
 
 Kalender rencana Day 1–30 ada di [CONTENT_BACKLOG.md](../CONTENT_BACKLOG.md). Status publikasi dan hasil Insights yang sudah terkonfirmasi dicatat di [CURRENT_STATE.md](../CURRENT_STATE.md).
 

@@ -7,6 +7,20 @@ Format inspired by semantic versioning:
 - **Minor:** new pillar, workflow, KPI framework, major prompt/system addition.
 - **Patch:** clarification, wording, small operational refinement.
 
+## [1.0.31] — 2026-11-01
+
+### Added
+- Completed Day 26 Hijab Inspo package (`HS-INSPO-003`) for “Monochrome modest-look inspiration” in `CONTENT/DAY-26/`.
+- Added five hook variants, selected hook, timed six-scene shot list, visual direction, ImageGen and image-to-video prompts, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, `EXP-027`, and a two-point tonal formula.
+- Added a 15-second 1080 × 1920 H.264 Reel, cover, three Stories PNGs, controlled light–soft–deep ImageGen triptych, six exact scenes, editable Pillow/FFmpeg renderer, asset manifest, SHA-256 inventory, and QA previews.
+
+### State
+- Day 26 is READY after dimension, duration, codec, frame-rate, 450-frame full-decode, PNG-integrity, spelling, hierarchy, safe-area, mobile-readability, modest-wardrobe, adult-model, identity, anatomy, hands, fabric, accessories, footwear, three-look separation, and claim-boundary QA.
+- The initial hook/recap crop was corrected before release so all three tonal looks remain visible in independent columns.
+- The HyperFrames skill defined the deterministic composition contract; Pillow and FFmpeg produced the verified final render, and no HyperFrames CLI output is claimed.
+- Day 27 “Nude bukan cuma satu warna” carousel is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, response, Insight, trend label, product result, or performance metric was inferred.
+
 ## [1.0.30] — 2026-10-31
 
 ### Added
