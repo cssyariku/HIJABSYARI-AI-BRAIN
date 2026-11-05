@@ -7,6 +7,20 @@ Format inspired by semantic versioning:
 - **Minor:** new pillar, workflow, KPI framework, major prompt/system addition.
 - **Patch:** clarification, wording, small operational refinement.
 
+## [1.0.32] — 2026-11-05
+
+### Added
+- Completed Day 27 Color Lab package (`HS-COLOR-008`) for “Nude bukan cuma satu warna” in `CONTENT/DAY-27/`.
+- Added five hook variants, selected hook, eight-slide controlled comparison, visual direction, ImageGen prompt, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, `EXP-028`, and a three-question chooser.
+- Added eight upload-ready 1080 × 1350 carousel PNGs, three 1080 × 1920 Stories PNGs, controlled five-direction ImageGen source, editable Pillow renderer, asset manifest, SHA-256 inventory, and QA previews.
+
+### State
+- Day 27 is READY after dimension, PNG-decode, spelling, hierarchy, safe-margin, mobile-readability, modest-wardrobe, adult-model, identity, anatomy, hands, fabric, controlled-variable, five-direction separation, and claim-boundary QA.
+- Shade names are editorial descriptors; no universal skin-tone/undertone suitability, exact product color, or trend status is claimed.
+- Stories 2–3 require native Poll and Questions stickers at upload.
+- Day 28 “Hijab formal vs daily: apa yang dibedakan?” Reel is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, response, Insights, product result, or performance metric was inferred.
+
 ## [1.0.31] — 2026-11-01
 
 ### Added
