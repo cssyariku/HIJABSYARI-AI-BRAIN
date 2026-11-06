@@ -7,6 +7,20 @@ Format inspired by semantic versioning:
 - **Minor:** new pillar, workflow, KPI framework, major prompt/system addition.
 - **Patch:** clarification, wording, small operational refinement.
 
+## [1.0.33] — 2026-11-06
+
+### Added
+- Completed Day 28 Face & Style package (`HS-FACE-004`) for “Hijab formal vs daily: apa yang dibedakan?” in `CONTENT/DAY-28/`.
+- Added five hook variants, selected hook, timed five-scene storyboard, visual direction, ImageGen and motion prompts, final caption, CTA, keywords/hashtags, three Stories derivatives, KPI plan, `EXP-029`, and a three-detail daily–formal framework.
+- Added a 15-second 1080 × 1920 H.264 Reel, cover, three Stories PNGs, controlled daily–formal ImageGen diptych, five exact scenes, editable Pillow/FFmpeg renderer, asset manifest, SHA-256 inventory, and QA previews.
+
+### State
+- Day 28 is READY after dimension, duration, codec, frame-rate, 450-frame full-decode, PNG-integrity, spelling, hierarchy, safe-area, mobile-readability, modest-wardrobe, adult-model, identity, anatomy, hands, fabric, shoes, clutch, daily–formal separation, and claim-boundary QA.
+- Daily and formal are treated as equal-context styling directions, not fixed dress codes or value judgments.
+- The HyperFrames skill defined the deterministic composition contract; Pillow and FFmpeg produced the verified final render because no HyperFrames CLI/runtime was available, and no HyperFrames CLI output is claimed.
+- Day 29 “7 hal yang kita pelajari bulan pertama” carousel is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, response, Insights, trend, product result, or performance metric was inferred.
+
 ## [1.0.32] — 2026-11-05
 
 ### Added

@@ -94,6 +94,8 @@
 
 **Day 27 production status (5 November 2026):** `HS-COLOR-008` READY; final eight-slide nude-direction Color Lab carousel, three Stories PNGs, controlled five-panel ImageGen source, editable deterministic renderer, final caption, three-question chooser, `EXP-028`, asset manifest, SHA-256 inventory, and QA previews are in `CONTENT/DAY-27/`. Shade names are editorial descriptors; no universal suitability, trend, product, publication, response, or performance result is claimed. Not yet published to Instagram.
 
+**Day 28 production status (6 November 2026):** `HS-FACE-004` READY; final 15-second daily–formal Reel, cover, three Stories PNGs, controlled ImageGen diptych, five exact scenes, editable Pillow/FFmpeg renderer, final caption, three-detail framework, `EXP-029`, asset manifest, SHA-256 inventory, and QA previews are in `CONTENT/DAY-28/`. Daily/formal labels are equal-context styling directions; no fixed dress-code, trend, product, publication, response, or performance result is claimed. Not yet published to Instagram.
+
 ---
 
 ## 2. HIJAB FIX BACKLOG
