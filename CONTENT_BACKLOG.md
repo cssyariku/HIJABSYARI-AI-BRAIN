@@ -96,6 +96,8 @@
 
 **Day 28 production status (6 November 2026):** `HS-FACE-004` READY; final 15-second daily–formal Reel, cover, three Stories PNGs, controlled ImageGen diptych, five exact scenes, editable Pillow/FFmpeg renderer, final caption, three-detail framework, `EXP-029`, asset manifest, SHA-256 inventory, and QA previews are in `CONTENT/DAY-28/`. Daily/formal labels are equal-context styling directions; no fixed dress-code, trend, product, publication, response, or performance result is claimed. Not yet published to Instagram.
 
+**Day 29 production status (7 November 2026):** `HS-BRAND-002` READY; final eight-slide production-lessons carousel, three Stories PNGs, realistic editorial ImageGen source, editable deterministic renderer, final caption, seven production lessons, `EXP-030`, explicit evidence boundary, asset manifest, SHA-256 inventory, and QA previews are in `CONTENT/DAY-29/`. These are observations from producing 28 READY packages, not audience-performance findings; no publication, response, Insight, winner, trend, testimonial, or product result is inferred. Not yet published to Instagram.
+
 ---
 
 ## 2. HIJAB FIX BACKLOG

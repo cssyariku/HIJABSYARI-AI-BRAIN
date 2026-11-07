@@ -7,6 +7,19 @@ Format inspired by semantic versioning:
 - **Minor:** new pillar, workflow, KPI framework, major prompt/system addition.
 - **Patch:** clarification, wording, small operational refinement.
 
+## [1.0.34] — 2026-11-07
+
+### Added
+- Completed Day 29 Brand / Relationship package (`HS-BRAND-002`) for “7 hal yang kita pelajari bulan pertama” in `CONTENT/DAY-29/`.
+- Added five hook variants, selected hook, eight-slide script, visual direction, ImageGen prompt, final caption, natural CTA, keywords/hashtags, three Stories derivatives, KPI plan, `EXP-030`, and an explicit production-evidence boundary.
+- Added eight 1080 × 1350 carousel PNGs, three 1080 × 1920 Stories PNGs, a realistic editorial ImageGen source, editable Pillow renderer, asset manifest, SHA-256 inventory, and QA contact sheets.
+
+### State
+- Day 29 is READY after PNG-integrity, dimension, spelling, hierarchy, safe-margin, mobile-readability, modest-wardrobe, adult-model, anatomy, hands, fabric, workspace-realism, and claim-boundary QA.
+- The seven lessons are production-system observations from 28 READY packages, not audience-performance findings; no winner is declared.
+- Day 30 “Vote topik bulan berikutnya” Stories is the next production priority.
+- Publication remains NOT PUBLISHED; no Instagram URL, response, Insights, trend, product result, or performance metric was inferred.
+
 ## [1.0.33] — 2026-11-06
 
 ### Added
