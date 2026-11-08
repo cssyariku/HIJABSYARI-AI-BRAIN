@@ -7,6 +7,19 @@ Format inspired by semantic versioning:
 - **Minor:** new pillar, workflow, KPI framework, major prompt/system addition.
 - **Patch:** clarification, wording, small operational refinement.
 
+## [1.0.35] — 2026-11-08
+
+### Added
+- Completed Day 30 Community / Research package (`HS-COMM-004`) for “Vote topik bulan berikutnya” in `CONTENT/DAY-30/`.
+- Added five hook variants, selected hook, four-frame Stories script with dwell guidance, visual direction, ImageGen prompt, final publishing copy, natural CTA, keywords, native sticker instructions, structured response-coding plan, KPI plan, and `EXP-031`.
+- Added four 1080 × 1920 Stories PNGs, a realistic four-context ImageGen source, editable Pillow renderer, asset manifest, SHA-256 inventory, and QA contact sheet.
+
+### State
+- Day 30 is READY after PNG-integrity, dimension, spelling, hierarchy, safe-margin, sticker-zone, mobile-readability, modest-wardrobe, adult-model, identity, anatomy, hands, fabric, mirror, label, rail, and claim-boundary QA.
+- No Poll percentage, Questions reply, publication, performance result, or winner is inferred.
+- The 30-day starter calendar is production-complete; Day 31 topic selection must use an unresolved backlog item or verified audience evidence, which is not yet available.
+- Publication remains NOT PUBLISHED; no Instagram URL, response, Insights, trend, testimonial, or product result was inferred.
+
 ## [1.0.34] — 2026-11-07
 
 ### Added

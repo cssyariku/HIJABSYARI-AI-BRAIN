@@ -33,6 +33,7 @@ Paket produksi final disimpan per day. Status `READY` berarti naskah dan aset si
 | 27 | Nude bukan cuma satu warna | READY | [DAY-27.md](DAY-27/DAY-27.md) | [COPYWRITING.md](DAY-27/COPYWRITING.md) | [contact-sheet.png](DAY-27/assets/contact-sheet.png) · [ASSETS.md](DAY-27/ASSETS.md) |
 | 28 | Hijab formal vs daily: apa yang dibedakan? | READY | [DAY-28.md](DAY-28/DAY-28.md) | [COPYWRITING.md](DAY-28/COPYWRITING.md) | [Cover](DAY-28/assets/reel-cover.png) · [Reel](DAY-28/assets/reel-final.mp4) · [ASSETS.md](DAY-28/ASSETS.md) |
 | 29 | 7 hal yang kita pelajari bulan pertama | READY | [DAY-29.md](DAY-29/DAY-29.md) | [COPYWRITING.md](DAY-29/COPYWRITING.md) | [contact-sheet.png](DAY-29/assets/contact-sheet.png) · [ASSETS.md](DAY-29/ASSETS.md) |
+| 30 | Vote topik bulan berikutnya | READY | [DAY-30.md](DAY-30/DAY-30.md) | [COPYWRITING.md](DAY-30/COPYWRITING.md) | [contact-sheet.png](DAY-30/assets/contact-sheet.png) · [ASSETS.md](DAY-30/ASSETS.md) |
 
 Kalender rencana Day 1–30 ada di [CONTENT_BACKLOG.md](../CONTENT_BACKLOG.md). Status publikasi dan hasil Insights yang sudah terkonfirmasi dicatat di [CURRENT_STATE.md](../CURRENT_STATE.md).
 
