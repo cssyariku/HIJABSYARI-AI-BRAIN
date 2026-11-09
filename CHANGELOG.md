@@ -7,6 +7,20 @@ Format inspired by semantic versioning:
 - **Minor:** new pillar, workflow, KPI framework, major prompt/system addition.
 - **Patch:** clarification, wording, small operational refinement.
 
+## [1.0.36] — 2026-11-09
+
+### Added
+- Completed Day 31 Hijab Fix × Hijab 101 package (`HS-FIX-006`) for “Kacamata + hijab terasa bulky?” in `CONTENT/DAY-31/`.
+- Added five hook variants, selected hook, timed five-scene storyboard, visual direction, ImageGen and motion prompts, final caption, natural CTA, keywords/hashtags, three Stories derivatives, official eyeglass-fit research notes, KPI plan, `EXP-032`, and a 30-second movement check.
+- Added a 15-second 1080 × 1920 H.264 Reel, cover, three Stories PNGs, controlled glasses-and-hijab ImageGen triptych, five exact scenes, editable Pillow/FFmpeg renderer, asset manifest, SHA-256 inventory, and QA previews.
+
+### State
+- Day 31 is READY after duration, codec, frame-rate, 450-frame full-decode, PNG-integrity, spelling, hierarchy, safe-area, mobile-readability, modest-wardrobe, adult-model, identity, anatomy, hands, fabric, glasses-geometry, and claim-boundary QA.
+- “Bulky” is treated as a visual/perceived layering problem, not a diagnosis or medical result; persistent symptoms are referred to an eye-care professional.
+- The HyperFrames skill defined the deterministic composition contract; no HyperFrames CLI/runtime was found, so Pillow and FFmpeg produced the verified final render and no HyperFrames CLI output is claimed.
+- Day 32 topic selection remains pending from unresolved backlog or verified audience evidence; no Day 30 vote result exists.
+- Publication remains NOT PUBLISHED; no Instagram URL, response, Insights, trend, testimonial, product, or performance result was inferred.
+
 ## [1.0.35] — 2026-11-08
 
 ### Added
