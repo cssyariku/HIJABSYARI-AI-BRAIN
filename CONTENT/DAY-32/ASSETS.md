@@ -9,35 +9,35 @@
 
 | File | Dimensions | SHA-256 |
 |---|---:|---|
-| `assets/storage-triptych.png` | 2172 × 724 | `3d2fe7a0282207d1ca7a7327522558297f790d82d33d68b183af8336100e4b18` |
+| `assets/storage-triptych.png` | 2172 × 724 | `e4753874599dd42bafe3b2f025beeb55bdf51c134f1d1ff802f23601b1cece53` |
 
 ## Carousel
 
 | File | Dimensions | SHA-256 |
 |---|---:|---|
-| `assets/carousel-01.png` | 1080 × 1350 | `4da3e5f729ab7870ab2daace28e06acfc4044f419358d2fe5c5b90d5b3761ad4` |
-| `assets/carousel-02.png` | 1080 × 1350 | `efa016d519f2804450d9767cc3ae01ee7d34739c90e841e74b70c49d8db7a6a8` |
-| `assets/carousel-03.png` | 1080 × 1350 | `f1f8abc37a0840d0c612be450ded3ffe54b453e6ad2c6771707aa0024d970697` |
+| `assets/carousel-01.png` | 1080 × 1350 | `86cf5b1bdfc05d031878c6ffe380144acc067eb8217924167e9eb283e1e8bf18` |
+| `assets/carousel-02.png` | 1080 × 1350 | `41d689ce0285f5e6de83d4c62d78f48bd19252e8f2bd2c046e7ca7b0c2157cf2` |
+| `assets/carousel-03.png` | 1080 × 1350 | `790b711ac0f1bf08ecf7f702599959f879f1ac0a17adca59c6c582776760907f` |
 | `assets/carousel-04.png` | 1080 × 1350 | `5772ee041046e8ef5d76fa856d0236b911353d82bb36ecc19aced355775623b4` |
-| `assets/carousel-05.png` | 1080 × 1350 | `1588d7ed774514dea1e4b7dfd58260d7d842fc019a4ce63975ea9c1d7c9bad86` |
+| `assets/carousel-05.png` | 1080 × 1350 | `d2f90ca27f5cc711461bd1051658309f2402b67545f2996112cc91c764cab931` |
 | `assets/carousel-06.png` | 1080 × 1350 | `1acc29cc38c2ab943cd975fa8ac114a78bae135c85ccd41d46d335c50c6415fd` |
-| `assets/carousel-07.png` | 1080 × 1350 | `39bb5664fd11557d47b58b0bbcc9f9fd4e25683d39783de0691775e27bfd0f66` |
+| `assets/carousel-07.png` | 1080 × 1350 | `ec3595db760a93df7b74beca5747f62c353a6ace8e8766231fdd2120672f5813` |
 | `assets/carousel-08.png` | 1080 × 1350 | `a2a977e004108ec8f0f571fe32c9d3cff9a856b81e01eb60e192c098fe023f81` |
 
 ## Stories
 
 | File | Dimensions | SHA-256 |
 |---|---:|---|
-| `assets/story-01.png` | 1080 × 1920 | `5a7fc6423191b0b14af87576ea37b3d14aab2788551ee360affed9988d971075` |
-| `assets/story-02.png` | 1080 × 1920 | `63483295c977f9f1b7b6d654923f840d81dcf88d8f03e51b90f690f59f94240e` |
+| `assets/story-01.png` | 1080 × 1920 | `d3dac5f7d25b28496060f896d9946e9d5559615cfeb1b43fd5b33cba89dc666c` |
+| `assets/story-02.png` | 1080 × 1920 | `549af45a7de6f518fba74ab5a2dddd568a7b9b2757cd2b44265814cca0dbbca2` |
 | `assets/story-03.png` | 1080 × 1920 | `d4630318560fa64b4b6ae3c7b05ec83ab661405fc65004f97d4b1675ce680e9b` |
 
 ## QA previews
 
 | File | SHA-256 |
 |---|---|
-| `assets/contact-sheet.png` | `def2ba3aef8c1fa32426f578c61ada03c48b0ef6d1cb1504fd77a761584bce7c` |
-| `assets/stories-contact-sheet.png` | `4f785002f5d556216c25f1506d9c107f57358e90f2e9e1366ad72785bae32352` |
+| `assets/contact-sheet.png` | `af08ff02922558607864927f5d770354813585950bd52d6e329b49084370e719` |
+| `assets/stories-contact-sheet.png` | `026cafc9c675f27c901513374d0c482e73239836a2a9ab26682e472a010fdb25` |
 
 ## QA performed
 
