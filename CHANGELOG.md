@@ -7,6 +7,19 @@ Format inspired by semantic versioning:
 - **Minor:** new pillar, workflow, KPI framework, major prompt/system addition.
 - **Patch:** clarification, wording, small operational refinement.
 
+## [1.0.37] — 2026-11-11
+
+### Added
+- Completed Day 32 Hijab 101 × Hijab Fix package (`HS-101-005`) for “Simpan hijab tanpa lipatan tajam” in `CONTENT/DAY-32/`.
+- Added five hook variants, selected hook, eight-slide storage-care script, visual direction, ImageGen prompt, final caption, natural CTA, keywords/hashtags, three Stories derivatives, official textile-conservation research notes, KPI plan, `EXP-033`, and a 60-second wardrobe reset.
+- Added eight 1080 × 1350 carousel PNGs, three 1080 × 1920 Stories PNGs, realistic storage ImageGen triptych, editable Pillow renderer, asset manifest, SHA-256 inventory, and QA contact sheets.
+
+### State
+- Day 32 is READY after PNG-integrity, dimension, spelling, hierarchy, safe-margin, mobile-readability, modest-wardrobe, adult-model, anatomy, hands, fabric, storage-action, and claim-boundary QA.
+- Conservation guidance was adapted only at a broad household-care level; no wrinkle-elimination, universal storage, product, or durability claim is made.
+- Day 33 topic selection remains pending from unresolved backlog or verified audience evidence; no Day 30 vote result exists.
+- Publication remains NOT PUBLISHED; no Instagram URL, response, Insights, trend, testimonial, product, or performance result was inferred.
+
 ## [1.0.36] — 2026-11-09
 
 ### Added

@@ -102,6 +102,8 @@
 
 **Day 31 production status (9 November 2026):** `HS-FIX-006` READY; final 15-second glasses-and-hijab diagnostic Reel, cover, three Stories PNGs, controlled ImageGen triptych, five exact scenes, editable Pillow/FFmpeg renderer, final caption, official eyeglass-fit research notes, three-point diagnostic, 30-second movement check, `EXP-032`, asset manifest, SHA-256 inventory, and QA previews are in `CONTENT/DAY-31/`. Guidance is a visual styling framework, not a diagnosis or universal fit promise; no publication, response, Insight, trend, testimonial, product, medical result, or performance result is inferred. Not yet published to Instagram.
 
+**Day 32 production status (11 November 2026):** `HS-101-005` READY; final eight-slide storage-care carousel, three Stories PNGs, realistic ImageGen storage triptych, editable deterministic renderer, final caption, official textile-conservation research notes adapted for household use, four-step checklist, 60-second wardrobe reset, `EXP-033`, asset manifest, SHA-256 inventory, and QA previews are in `CONTENT/DAY-32/`. Guidance is conditional and does not promise wrinkle elimination or one storage method for every fabric; no publication, response, Insight, trend, testimonial, product, or performance result is inferred. Not yet published to Instagram.
+
 ---
 
 ## 2. HIJAB FIX BACKLOG
