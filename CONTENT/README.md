@@ -36,6 +36,7 @@ Paket produksi final disimpan per day. Status `READY` berarti naskah dan aset si
 | 30 | Vote topik bulan berikutnya | READY | [DAY-30.md](DAY-30/DAY-30.md) | [COPYWRITING.md](DAY-30/COPYWRITING.md) | [contact-sheet.png](DAY-30/assets/contact-sheet.png) · [ASSETS.md](DAY-30/ASSETS.md) |
 | 31 | Kacamata + hijab terasa bulky? | READY | [DAY-31.md](DAY-31/DAY-31.md) | [COPYWRITING.md](DAY-31/COPYWRITING.md) | [Cover](DAY-31/assets/reel-cover.png) · [Reel](DAY-31/assets/reel-final.mp4) · [ASSETS.md](DAY-31/ASSETS.md) |
 | 32 | Simpan hijab tanpa lipatan tajam | READY | [DAY-32.md](DAY-32/DAY-32.md) | [COPYWRITING.md](DAY-32/COPYWRITING.md) | [contact-sheet.png](DAY-32/assets/contact-sheet.png) · [ASSETS.md](DAY-32/ASSETS.md) |
+| 33 | Hijab tidak stay di area pipi | READY | [DAY-33.md](DAY-33/DAY-33.md) | [COPYWRITING.md](DAY-33/COPYWRITING.md) | [Cover](DAY-33/assets/reel-cover.png) · [Reel](DAY-33/assets/reel-final.mp4) · [ASSETS.md](DAY-33/ASSETS.md) |
 
 Kalender rencana Day 1–30 ada di [CONTENT_BACKLOG.md](../CONTENT_BACKLOG.md). Status publikasi dan hasil Insights yang sudah terkonfirmasi dicatat di [CURRENT_STATE.md](../CURRENT_STATE.md).
 
